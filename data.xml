@@ -1,0 +1,228 @@
+<root>
+    <page id="1" name="基本資料">
+        <img id="avatar" />
+        <text id="name" name="姓名" type="string" required="true" />
+        <select id="sex" name="性別" required="true">
+            <option>男</option>
+            <option>女</option>
+        </select>
+        <text id="birthyear" name="出生年" type="integer" required="true" />
+        <text id="height" name="身高" type="float" required="true" />
+        <text id="weight" name="體重" type="float" required="true" />
+        <text id="mobile" name="手機" type="string" required="false" />
+    </page>
+    <page id="2" name="診斷資料">
+        <text id="diagnose_date" name="診斷日期" type="date" required="true" />
+        <select id="diagnose_type" name="診斷名稱" required="true">
+            <option>大腸癌</option>
+            <option>肺癌</option>
+            <option>肝癌</option>
+            <option>乳癌</option>
+            <option>口腔癌</option>
+            <option>攝護腺癌</option>
+            <option>胃癌</option>
+            <option>皮膚癌</option>
+            <option>甲狀腺癌</option>
+            <option>食道癌</option>
+            <option>子宮頸癌</option>
+            <option>淋巴癌</option>
+            <option>喉癌</option>
+            <option>腦瘤</option>
+            <option>鼻咽癌</option>
+            <option>腎臟癌</option>
+            <option>膀胱癌</option>
+            <option>卵巢癌</option>
+            <option>胰臟癌</option>
+            <option>白血病</option>
+            <option>骨肉瘤</option>
+            <option>攝護腺癌</option>
+            <option>多發性骨髓瘤</option>
+            <option>腸胃道基質瘤</option>
+            <option>神經內分泌腫瘤</option>
+            <option>慢性骨髓性白血病</option>
+            <option>子宮內膜癌</option>
+        </select>
+        <select id="hospital_name" name="就診醫院院名">
+            <option>三軍總醫院</option>
+            <option>大林慈濟醫院</option>
+            <option>中山附醫</option>
+            <option>中國附醫</option>
+            <option>中國醫藥大學北港附設醫院</option>
+            <option>中港澄清醫院</option>
+            <option>天主教聖馬爾定醫院</option>
+            <option>北醫附設醫院</option>
+            <option>台中大里仁愛醫院</option>
+            <option>台中光田綜合醫院</option>
+            <option>台中國軍803醫院</option>
+            <option>台中慈濟醫院</option>
+            <option>台中榮總</option>
+            <option>台北中山醫院</option>
+            <option>台北長庚醫院</option>
+            <option>台北馬偕醫院</option>
+            <option>台北國泰醫院</option>
+            <option>台北景美醫院</option>
+            <option>台北慈濟醫院</option>
+            <option>台北新光醫院</option>
+            <option>台北榮總</option>
+            <option>台安醫院</option>
+            <option>台東馬偕醫院</option>
+            <option>台東基督教醫院</option>
+            <option>台東關山慈濟醫院</option>
+            <option>台南市立醫院</option>
+            <option>台南新樓醫院</option>
+            <option>市立中興醫院</option>
+            <option>市立仁愛醫院</option>
+            <option>市立和平醫院</option>
+            <option>市立忠孝醫院</option>
+            <option>市立婦幼醫院</option>
+            <option>市立陽明醫院</option>
+            <option>安南醫院</option>
+            <option>成大醫院</option>
+            <option>成大醫院斗六分院</option>
+            <option>汐止國泰醫院</option>
+            <option>亞東醫院</option>
+            <option>亞洲大學暨附屬醫院</option>
+            <option>其他</option>
+            <option>和信醫院</option>
+            <option>奇美醫院</option>
+            <option>宜蘭陽明大學附設醫院</option>
+            <option>林口長庚醫院</option>
+            <option>林新醫院</option>
+            <option>花蓮門諾醫院</option>
+            <option>花蓮慈濟醫院</option>
+            <option>屏東安泰醫院</option>
+            <option>屏東基督教醫院</option>
+            <option>苗栗大千醫院</option>
+            <option>苗栗為恭紀念醫院</option>
+            <option>埔里基督教醫院</option>
+            <option>埔里榮民醫院</option>
+            <option>恩主公醫院</option>
+            <option>振興醫院</option>
+            <option>桃園聖保祿醫院</option>
+            <option>桃園壢新醫院</option>
+            <option>耕莘醫院</option>
+            <option>高雄市立大同醫院</option>
+            <option>高雄市立小港醫院</option>
+            <option>高雄市立岡山秀傳醫院</option>
+            <option>高雄市立聯合醫院</option>
+            <option>高雄阮綜合醫院</option>
+            <option>高雄長庚醫院</option>
+            <option>高雄海軍總醫院</option>
+            <option>高雄健仁醫院</option>
+            <option>高雄聖功醫院</option>
+            <option>高雄榮總</option>
+            <option>高醫</option>
+            <option>國軍桃園總醫院</option>
+            <option>國軍高雄總醫院(802醫院)</option>
+            <option>基隆長庚醫院</option>
+            <option>康寧醫院</option>
+            <option>敏盛醫院</option>
+            <option>淡水馬偕醫院</option>
+            <option>童綜合醫院</option>
+            <option>雲林長庚紀念醫院</option>
+            <option>雲林基督教醫院</option>
+            <option>雲林臺大醫院(斗六院區)</option>
+            <option>雲林臺大醫院(虎尾院區)</option>
+            <option>新北市立聯合醫院</option>
+            <option>新竹馬偕醫院</option>
+            <option>新竹國泰醫院</option>
+            <option>新竹臺大醫院</option>
+            <option>署立台中醫院</option>
+            <option>署立台北醫院</option>
+            <option>署立台南醫院</option>
+            <option>署立南投醫院</option>
+            <option>署立屏東醫院</option>
+            <option>署立苗栗醫院</option>
+            <option>署立桃園醫院</option>
+            <option>署立新竹醫院</option>
+            <option>署立嘉義醫院</option>
+            <option>署立豐原醫院</option>
+            <option>義大醫院</option>
+            <option>萬芳醫院</option>
+            <option>嘉義長庚醫院</option>
+            <option>嘉義基督教醫院</option>
+            <option>彰化秀傳醫院</option>
+            <option>彰化基督教醫院</option>
+            <option>彰濱秀傳醫院</option>
+            <option>臺大醫院</option>
+            <option>澎湖醫院</option>
+            <option>雙和醫院</option>
+            <option>羅東博愛醫院</option>
+            <option>羅東聖母醫院</option>
+        </select>
+        <text id="emergency_phone" name="急診電話" type="string" required="false" />
+        <text id="surgery_doctor" name="外科醫師" type="string" required="false" />
+        <text id="radiotumor_doctor" name="放射腫瘤科醫師" type="string" required="false" />
+        <text id="bloodtumor_doctor" name="血液腫瘤科醫師" type="string" required="false" />
+        <text id="other_doctor" name="其他科別" type="string" required="false" multiple="3" />
+        <text id="case_manager" name="個管師" type="string" required="false" />
+        <text id="case_m_phone" name="個管師電話" type="string" required="false" />
+    </page>
+    <page id="3" name="切片資料">
+        <text id="slice_date" name="切片報告日期" type="date" required="true" />
+        <select id="cancer_organ" name="癌症部位" required="true">
+            <option>十二指腸</option>
+            <option>口腔</option>
+            <option>大腸</option>
+            <option>子宮內膜</option>
+            <option>子宮頸</option>
+            <option>小腸</option>
+            <option>中樞神經系統</option>
+            <option>甲狀腺</option>
+            <option>皮膚</option>
+            <option>卵巢</option>
+            <option>肝</option>
+            <option>乳房</option>
+            <option>直腸</option>
+            <option>肺</option>
+            <option>胃</option>
+            <option>食道</option>
+            <option>胰臟</option>
+            <option>胸腺</option>
+            <option>淋巴</option>
+            <option>唾液腺</option>
+            <option>喉</option>
+            <option>腎臟</option>
+            <option>腦</option>
+            <option>膀胱</option>
+            <option>鼻咽</option>
+            <option>膽囊</option>
+            <option>攝護腺</option>
+        </select>
+        <text id="tumor_type" name="癌症細胞型態" required="true" />
+        <text id="tumor_size" name="腫瘤大小" type="float" required="false" />
+        <select id="lymphtransfer" name="淋巴轉移" required="false">
+            <option>有</option>
+            <option>無</option>
+        </select>
+        <select id="distance_transfer" name="遠處轉移" required="false">
+            <option>皮膚</option>
+            <option>肝</option>
+            <option>肺</option>
+            <option>骨頭</option>
+            <option>淋巴結</option>
+            <option>脾臟</option>
+            <option>腎上腺</option>
+            <option>腦</option>
+            <option>乳房</option>
+            <option>肋膜腔</option>
+        </select>
+        <text id="cancer_stage" name="癌症期別" required="true" />
+        <select id="cytodifferentiation" name="細胞分化程度" required="false">
+            <option>低惡性度G1</option>
+            <option>中惡性度G2</option>
+            <option>高惡性度G3</option>
+            <option>不詳</option>
+        </select>
+        <select id="ailment_history" name="慢性病史" required="false">
+            <option>肝炎/肝硬化</option>
+            <option>糖尿病</option>
+            <option>高血壓</option>
+            <option>腦中風</option>
+            <option>腎臟疾病</option>
+            <option>心臟疾病</option>
+            <option>其他</option>
+        </select>
+        <text id="other_test" name="其他檢查" required="true" />
+    </page>
+</root>

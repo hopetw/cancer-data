@@ -1,0 +1,1194 @@
+<cancers>
+    <cancer name="大腸癌">
+        <drugs>
+            <drug name="Aflibercept (Zaltrap；柔癌捕)">
+                <effect>食慾下降，乏力，頭痛，體重減輕，發聲困難，口腔炎，蛋白尿，腹瀉，脫水。</effect>
+            </drug>
+            <drug name="Bevacizumab（Avastin；癌思停）">
+                <effect>高血壓、出血、輕微蛋白尿；極少數病人會有出現動脈血管栓塞及中風的可能性。</effect>
+            </drug>
+            <drug name="Capecitabine（Xeloda；截瘤達） ">
+                <effect>副作用 : 噁心．嘔吐．腹瀉．口腔炎．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食 注意事項 : 1.治療期間可於手掌腳掌塗抹含Urea的軟膏，減輕手足症候群。 2.有手腳紅腫痛情形，請告知醫護人員。 </effect>
+            </drug>
+            <drug name="Cetuximab （Erbitux；爾必得舒）">
+                <effect>疲倦、發冷發熱、皮膚疹、低血鎂症。</effect>
+            </drug>
+            <drug name="Fluorouracil（5-FU、Fluoro-uracil、 UFT、UFUR；有利癌、好復、優富多、 友復)  ">
+                <effect>副作用 : 噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項 : 1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。 </effect>
+            </drug>
+            <drug name="Irinotecan（Campto、Irino；抗癌妥、益立諾）">
+                <effect>副作用 : 噁心．嘔吐．急性膽鹼性症候群（早期腹瀉．盜汗．流淚．瞳孔縮小．流口水．腹部痙攣）．嗜中性白血球減少症．血小板減少．掉髮．延遲性腹瀉 注意事項 : 1.懷孕哺乳者不適用。 2.給藥24小時以後，可能會有排便次數增加或水瀉，稱為延遲性腹瀉，需告知醫師。 3.腹瀉嚴重24小時以上，無小便，腹部絞痛，體重急降，或合併發燒等，須立即回診。 4. 24小時內可能發生眩暈或視力障礙，不宜駕車或操作機器。 </effect>
+            </drug>
+            <drug name="Oxaliplatin（Eloxatin、Oxalip；益樂鉑錠 、歐力普）">
+                <effect>副作用 : 末稍感覺異常．口部周圍與上呼吸道感覺異常．噁心．嘔吐．便秘．肝功能異常．白血球及血小板減少．貧血．過敏反應 注意事項 : 1.輸注後，會產生短暫咽喉方面的感覺異常。需監測過敏反應及神經毒性。 2.應避免使用酒精，避免開車或操作機器。 </effect>
+            </drug>
+            <drug name="Panitumumab（Vectibix；維必施）">
+                <effect>發燒、頭痛；皮膚反應症狀包括紅斑、皮疹、皮膚搔癢、痤瘡、胃腸不適、噁心、嘔吐、疲倦等。 </effect>
+            </drug>
+            <drug name="Ramucirumab(Cyramza；欣銳擇)">
+                <effect>高血壓、腹瀉、頭痛、低血鈉症、嗜中性白血球減少症、疲勞/無力。</effect>
+            </drug>
+            <drug name="Regorafenib (Stivarga；癌瑞格)">
+                <effect>手足皮膚反應(手腳紅腫、刺痛等等)、腹瀉、疲倦、高血壓。</effect>
+            </drug>
+        </drugs>
+        <tests>
+            <test name="K-RAS">
+                <option>原生型</option>
+                <option>突變型</option>
+            </test>
+            <test name="EGFR">
+                <range unit="%" max="100" min="-100" />
+            </test>
+        </tests>
+        <cancer_stage>
+            <option>第零期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>腺癌</option>
+            <option>鱗狀上皮細胞癌（肛門癌）</option>
+            <option>黏液癌</option>
+            <option>類癌（神經內分泌瘤）</option>
+            <option>腸胃道間質腫瘤</option>
+            <option>黑色素細胞瘤</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="乳癌">
+        <drugs>
+            <drug name="Anastrozole (Arimidex、Anazo；安美達 、安納柔)">
+                <effect>通常為輕度到中度：熱潮紅、陰道乾澀和毛髮稀疏。胃腸道不適、衰弱、嗜睡、頭痛或發疹、骨質疏鬆、關節疼痛。</effect>
+            </drug>
+            <drug name="Bevacizumab (Avastin；癌思停)">
+                <effect>高血壓、輕微蛋白尿；極少數病人可能會出現動脈血管栓塞。</effect>
+            </drug>
+            <drug name="Capecitabine (Xeloda；截瘤達)">
+                <effect>副作用：噁心、嘔吐、腹瀉、口腔炎、淋巴球減少、手足症候群（手腳感覺異常、麻痹、刺痛）、高膽紅素血症、疲倦、厭食。 注意事項：1.治療期間塗抹含Urea軟膏於手掌及腳掌，可減少手足症候群的發生。 2.手腳有紅腫痛情形，請告知醫護人員。</effect>
+            </drug>
+            <drug name="Cyclophosphamide (Endoxan；癌德星)">
+                <effect>副作用：噁心與嘔吐、食慾不振、腹瀉、遲發性骨髓抑制作用、白血球與血小板減少、色素沉著、貧血、掉髮、出血性膀胱炎。 注意事項：維持足量的水分，以減少出血性膀胱炎。注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Docetaxel (Taxotere、Tyxan、Tynen；剋癌易、汰杉、 鈦能，俗稱歐洲紫杉醇)">
+                <effect>副作用：噁心、嘔吐、過敏反應、低血壓、白血球減少、血小板減少、體液蓄積症狀（如末梢肢體水腫．體重增加等）、末梢神經病變（手、腳麻木感）、掉髮、口腔炎、腹瀉、衰弱無力、肌肉疼痛。 注意事項：1.最常見的副作用為白血球減少，平均在治療後7天會降至最低點，應注意衛生清潔及體溫變化，避免感染。 2.如手腳有麻木感，停藥後可改善。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心、嘔吐、靜脈炎、注射後幾天內尿液會變紅色、白血球減少、血小板減少、嚴重掉髮、口腔黏膜破皮、心臟毒性（與累積劑量有關）、色素沉著。 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Epirubicin (Pharmorubicin、Epicin；泛艾黴素 、益彼欣，俗稱二代小紅莓)">
+                <effect>副作用：噁心、嘔吐、腹瀉、白血球減少、血小板減少、掉髮、黏膜發炎、心臟毒性（與累積劑量有關）、體溫過高。 注意事項：心臟或腎臟病患者須小心使用。</effect>
+            </drug>
+            <drug name="Everolimus (Afinitor；癌伏妥)">
+                <effect>黏膜潰瘍、血糖升高、間質性肺炎。</effect>
+            </drug>
+            <drug name="Exemestane (Aromasin；諾曼癌素)">
+                <effect>熱潮紅、噁心、疲憊、頭痛、失眠、流汗量增加及眩暈、骨質疏鬆、關節疼痛。</effect>
+            </drug>
+            <drug name="Fluorouracil (5-FU、Fluoro-uracil；好復 、有利癌)">
+                <effect>副作用：噁心、嘔吐、食慾不振、口腔及腸胃黏膜潰瘍、腹瀉、低血壓、白血球減少、掉髮、脫皮、紅疹、色素沉著、指甲變形、光敏感。 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Fulvestrant (Faslodex；法洛德注射液)">
+                <effect>噁心、衰弱無力、注射部位反應、肝酵素上升</effect>
+            </drug>
+            <drug name="Gemcitabine (Gemzar、Gemmis；健擇、健仕)">
+                <effect>副作用：輕微噁心、嘔吐、貧血、白血球減少、血小板減少、輕度尿蛋白、血尿、輕微掉髮、皮膚紅疹、類似感冒症狀、發燒、水腫、呼吸困難（對藥物過敏時）。 注意事項：停藥後，周邊血管血球數可能會持續下降。</effect>
+            </drug>
+            <drug name="Goserelin (Zoladex；諾雷德)">
+                <effect>輕微之皮疹、血壓的改變、注射部位輕度瘀血。</effect>
+            </drug>
+            <drug name="Lapatinib (Tykerb；泰嘉錠)">
+                <effect>腹瀉、手足症候群、噁心、嘔吐、皮膚紅疹、虛弱及厭食。</effect>
+            </drug>
+            <drug name="Letrozole (Femara；復乳納、利妥柔)">
+                <effect>頭痛、噁心、末梢水腫、倦怠無力、暈眩、熱潮紅、毛髮稀疏、發疹、胃腸不適、骨質疏鬆、關節疼痛。</effect>
+            </drug>
+            <drug name="Leuprorelin (Leuplin Depot；柳菩林)">
+                <effect>注射部位出現不適，以及抑制女性荷爾蒙所出現的症狀，包括熱潮紅、盜汗、陰道分泌物減少等。</effect>
+            </drug>
+            <drug name="Liposomal Doxorubicin (Lipo-Dox；力得微脂體)">
+                <effect>副作用：手足症候群（手足皮膚紅腫及疼痛）、口腔炎、嘔吐、 落髮、心臟毒性、噁心、嘔吐等副作用相較傳統小紅莓發生率及嚴重程度低 注意事項：1.給藥當天及給藥三天內，冰敷並保持手腳涼爽，可避免手足症候群出現。 2.有面部水腫或潮紅、氣喘、呼吸不順、胸及喉嚨緊繃、胸痛、頭痛、背痛、低血壓請告知醫護人員。</effect>
+            </drug>
+            <drug name="Methotrexate（滅殺除癌錠）">
+                <effect>副作用：噁心、嘔吐、腹瀉、白血球減少、血小板減少、掉髮、視力模糊、頭暈、口腔潰瘍、間質性肺炎、肝及腎功能受損、色素沉著、皮膚紅疹。 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Paclitaxel (Phyxol、Taxol；輝克癒蘇、汰癌勝，俗稱太平洋紫杉醇)">
+                <effect>副作用：輕微噁心、嘔吐、腹瀉、過敏反應、（嗜中性）白血球及血小板過低、貧血、末梢神經異常（如手腳麻木．刺痛感）、肌肉痠痛、掉髮、水腫、肝功能異常。 注意事項：在投予此藥前會先給 予適當預防過敏發生之藥物。</effect>
+            </drug>
+            <drug name="Palbociclib (Ibrance；愛乳適)">
+                <effect>嗜中性白血球減少症、白血球減少症</effect>
+            </drug>
+            <drug name="Pertuzumab (Perjeta；賀疾妥)">
+                <effect>輕微腹瀉</effect>
+            </drug>
+            <drug name="Ribocilcib (Kisqali；擊癌利)">
+                <effect>嗜中性白血球減少症、白血球減少症、輕微噁心。</effect>
+            </drug>
+            <drug name="Tamoxifen (Tafen、Tadex、Taxifen、Novofen、Nolvadex；達芬錠、和達特錠、癌喜芬、得適錠、諾普惠錠、諾瓦得士錠)">
+                <effect>噁心、熱潮紅、體重增加、外陰搔癢、偶有陰道分泌物增加或出血、子宮內膜增生。</effect>
+            </drug>
+            <drug name="Trastuzumab (Herceptin；賀癌平)">
+                <effect>輕微發熱、頭痛、極少數影響心臟功能。</effect>
+            </drug>
+            <drug name="Trastuzumab Emtansine (Kadcyla；賀癌寧)">
+                <effect>肝毒性、血小板減少、周邊神經病變。</effect>
+            </drug>
+            <drug name="Vinorelbine (Navelbine；溫諾平)">
+                <effect>副作用：白血球減少、注射部位反應（紅、腫、熱、痛） 、便秘、輕微或中度噁心嘔吐、掉髮、神經方面不適（麻痹、刺痛、虛弱）、疲倦、口腔黏膜破損。 注意事項：需冷藏；如膠囊壓碎，或膠囊內液體外露時應停止服用。</effect>
+            </drug>
+        </drugs>
+        <tests>
+            <test name="HER-2/neu">
+                <option>陰性</option>
+                <option>陽性：+</option>
+                <option>陽性：++</option>
+                <option>陽性：+++</option>
+            </test>
+            <test name="荷爾蒙接受體ER">
+                <range unit="%" max="100" min="-100" />
+            </test>
+            <test name="荷爾蒙接受體PR">
+                <range unit="%" max="100" min="-100" />
+            </test>
+            <test name="Ki67">
+                <option>大於等於20%</option>
+                <option>小於20%</option>
+            </test>
+        </tests>
+        <cancer_stage>
+            <option>零期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>浸潤性腺管癌</option>
+            <option>腺管原位癌</option>
+            <option>浸潤性小葉癌</option>
+            <option>其他</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="卵巢癌">
+        <drugs>
+            <drug name="Bevacizumab (Avastin；癌思停)">
+                <effect>副作用：高血壓、蛋白尿、胃腸出血、流鼻血、血管栓塞 注意事項：腸阻塞或腸穿孔病史者宜小心使用；注意傷口癒合情形，應於重大手術後至少28天或手術傷口完全癒合後再開始進行治療。</effect>
+            </drug>
+            <drug name="Carboplatin （Paraplatin；佳鉑帝、卡鉑）">
+                <effect>副作用：噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損(少見)．高頻聽力受損 注意事項：需注意水分的補充。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑；俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．聽力受損．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Cyclophosphamide （Endoxan；癌德星）">
+                <effect>副作用：噁心與嘔吐．食慾不振．腹瀉．遲發性骨髓抑制作用．白血球與血小板減少（出血易感染）．貧血．掉髮．心臟毒性（與累積劑量有關）．肺部纖維化（使用高劑量時）．出血性膀胱炎．高尿酸血症．低血鈉症．色素沉著．停經．抗利尿激素分泌不足症候群（SIADH）．傷口癒合延遲 注意事項：維持足量的水分，不要憋尿，以減少出血性膀胱炎。注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere；剋癌易，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手．腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少，平均在治療7天後會逐漸降至最低點，應注意衛生清潔及體溫變化，避免感染。 2.如手腳有麻木感，停藥後可改善。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：注意血小板降低可能引發的異常出血。</effect>
+            </drug>
+            <drug name="Liposomal Doxorubicin （Caelyx、Lipo-Dox；康利斯（微脂體小紅莓））">
+                <effect>副作用：口腔黏膜炎．嘔吐．噁心和脫髮等副作用較一般doxorubicin低．手足症候群(手足皮膚紅腫及疼痛)．白血球與血小板減少．貧血．紅疹．便秘．厭食 注意事項： 1.給藥當天或給藥三天內，冰敷並保持手腳涼爽，可避免手足症候群出現。 2.有面部水腫或潮紅、氣喘、呼吸不順、胸及喉嚨緊繃、胸痛、頭痛、背痛、低血壓請告知醫護人員。</effect>
+            </drug>
+            <drug name="Olaparib (Lynparza；令癌莎)">
+                <effect>副作用：噁心、嘔吐、貧血、疲倦 注意事項：避免服用葡萄柚汁，錠劑應完整吞服，不可咀嚼、壓碎、溶解或剝半。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Topotecan (Hycamtin；癌康定)">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．白血球減少．貧血．血小板缺乏症．掉頭髮．頭痛．疲倦．發燒．口腔發炎．便祕．腹痛．呼吸困難．骨髓抑制 注意事項：有相關過敏反應病史的患者或有嚴重骨髓功能抑制之患者不宜使用。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第I期</option>
+            <option>第Ⅱ期</option>
+            <option>第Ⅲ期</option>
+            <option>第IV期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>上皮細胞</option>
+            <option>生殖細胞</option>
+            <option>性腺間質細胞</option>
+            <option>其他</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="口腔癌">
+        <drugs>
+            <drug name="Bleomycin （Bleocin；撲類惡）">
+                <effect>副作用：肺炎及肺纖維化樣症狀、致畸胎性、皮膚異常、色素沉澱及口腔炎、靜脈壁增厚、噁心、嘔吐、食慾減退、體重減輕、寒顫．發燒、偶有過敏、髮量稀疏、白血球減少．血小板減少．貧血 注意事項：1.注射後請注意有無發冷、發熱等發燒現象。 2.有咳嗽、喘氣、呼吸 困難時，即時通知醫護人員追蹤是否產生肺部纖維化的問題。</effect>
+            </drug>
+            <drug name="Cetuximab (Erbitux；爾必得舒)">
+                <effect>副作用：疲倦、發冷發熱、皮膚疹、低血鎂症。 注意事項：皮膚保持清潔及保濕。 皮膚痘子不要自行擠破，以免造成感染。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴或喪失高頻率聽力，請即時通知醫護人員。 3.治療期間不可哺乳。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere；剋癌易，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手．腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少,平均在治療後7天會降至最低點,應注意衛生清潔及體溫變化,避免感染。 2.如手腳有麻木感,停藥後可改善。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU；Fluoro-uracil；有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Ifosfamide （Holoxan；好克癌）">
+                <effect>副作用：噁心．嘔吐．白血球減少．血小板減少．貧血．出血性膀胱炎，高劑量時腎臟毒性．掉頭髮．高劑量時中樞神經系統毒性（情緒改變．憂鬱．混亂．嗜睡甚至昏迷）．停經，精蟲減少 注意事項：攝取適量水分，注意解尿情形。</effect>
+            </drug>
+            <drug name="Methotrexate （MTX；滅可善、滅殺除癌錠）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。 3.對胎兒可能有害。</effect>
+            </drug>
+            <drug name="Uracil Tegafur （UFT、UFUR；友復膠囊）">
+                <effect>腹瀉．噁心．嘔吐．口腔炎．腹痛．倦怠感．暈眩．色素沉澱．指甲異常．水腫．肝腎機能異常</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>零 期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>鱗狀細胞癌</option>
+            <option>腺癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="喉癌">
+        <drugs>
+            <drug name="Bleomycin （Bleocin；撲類惡）">
+                <effect>副作用：肺炎及肺纖維化樣症狀、致畸胎性、皮膚異常、色素沉澱及口腔炎、靜脈壁增厚、噁心、嘔吐、食慾減退、體重減輕、寒顫．發燒、偶有過敏、髮量稀疏、白血球減少．血小板減少．貧血 注意事項：1.注射後請注意有無發冷、發熱等發燒現象。 2.有咳嗽、喘氣、呼吸 困難時，請即時通知醫護人員追蹤是否產生肺部纖維化的問題。</effect>
+            </drug>
+            <drug name="Cetuximab (Erbitux；爾必得舒)">
+                <effect>副作用：疲倦、發冷發熱、皮膚疹、低血鎂症。 注意事項：皮膚保持清潔及保濕。皮膚痘子不要自行擠破，以免造成感染。</effect>
+            </drug>
+            <drug name="Cisplatin （Cisplatin；西伯拉丁、希思鉑定、克莫抗癌，俗稱白金或順鉑）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere、Tyxan；剋癌易、汰杉，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少,平均在治療後7天會降至最低點,應注意衛生清潔及體溫變化,避免感染。 2.如手腳有麻木感,停藥後可改善。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3.避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Methotrexate (Trexan、Ebetrexat；滅可善、治善錠、癌可治、益伯偉）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Uracil Tegafur （UFT、UFUR；優富多、友復膠囊）">
+                <effect>腹瀉．噁心．嘔吐．口腔炎．腹痛．倦怠感．暈眩．色素沉澱．指甲異常．水腫．肝腎機能異常</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>鱗狀上皮細胞癌</option>
+            <option>腺癌</option>
+            <option>肉瘤</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="多發性骨髓瘤">
+        <drugs>
+            <drug name="Bortezomib (Velcade；萬科)">
+                <effect>副作用：疲倦、腸胃道不適、血小板減少及周邊神經病變 注意事項：避免開車或操作危險機械及從事需要集中注意力的工作。</effect>
+            </drug>
+            <drug name="Clodronate (Bonefos；骨復舒)">
+                <effect>副作用：噁心, 嘔吐, 腹瀉, 低血鈣症, 肝膽失調導致轉胺酶濃度升高等 注意事項：不可和牛奶等含鈣食物及二價陽離子同時服用會阻礙其正常吸收</effect>
+            </drug>
+            <drug name="Cyclophosphamide (Endoxan；癌德星)">
+                <effect>副作用：噁心、嘔吐、食慾不振、腹瀉、遲發性骨髓抑制作用、白血球與血小板減少（造成容易感染及出血）、貧血、掉髮、心臟毒性（與累積劑量有關）、肺部纖維化（使用高劑量時）、出血性膀胱炎、高尿酸血症、低血鈉症、色素沉著、停經、精蟲減少、抗利尿激素分泌不足症候群（SIADH）、傷口不易癒合 注意事項： 1.維持足量的水分，以減少出血性膀胱炎。  2.注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心、嘔吐、靜脈炎、注射後24到48小時、尿液會變紅色、白血球減少、血小板減少、嚴重掉頭髮、心臟毒性（與累積劑量有關）、皮膚色素沉著 注意事項：1.心臟功能不全者，使用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Lenalidomide (Revlimid；瑞復美膠囊)">
+                <effect>副作用：嗜中性白血球減少、血小板減少、靜脈血栓、皮疹 注意事項：所有病患都必須先簽署服用同意書</effect>
+            </drug>
+            <drug name="Pamidronate (Aredia；雷狄亞)">
+                <effect>副作用：貧血、頭痛、失眠、結膜炎、噁心、嘔吐、骨頭痛、關節痛、血小板減少、血液淋巴球減少, 低血鈣症、高血壓、皰皮疹等 注意事項： 1.要注意腎功能及電解質是否出現異常，必要時需停藥。 2.治療期間如果可能應避免侵入性的牙科治療。</effect>
+            </drug>
+            <drug name="Pomalidomide (Pomalyst；鉑美特膠囊)">
+                <effect>副作用：胎兒風險、靜脈栓塞、血液毒性、肝毒性 注意事項：所有病患都必須先簽署服用同意書</effect>
+            </drug>
+            <drug name="Thalidomide （Thado；沙利竇邁、賽得膠囊）">
+                <effect>副作用：血栓、疲倦及嗜睡、周邊神經病變（手腳刺痛、疼痛或麻木感）、暈眩及姿勢性低血壓、白血球減少症、增加HIV病毒量、過敏反應及心跳變慢 注意事項：1.所有病患都必須先簽署服用同意書  2.有出現頭暈、姿勢性低血壓的情形，建議從坐姿站立時，可先坐直數分鐘後再起身站立。</effect>
+            </drug>
+            <drug name="Vincristine （Oncovin；敏克瘤）">
+                <effect>副作用：噁心、嘔吐、腹瀉、便秘．腹部抽筋、多尿症、排尿困難、尿液滯留、靜脈炎、白血球減少、血小板減少、掉髮、紅疹、周邊神經不適（手．腳麻木感）、憂鬱、高血壓、低血壓、頭痛、發燒 注意事項：手、腳麻木或有針刺感，麻痺性腸閉塞及便秘等現象，通常注射後數天可恢復。</effect>
+            </drug>
+            <drug name="Zoledronic acid (Zometa；卓骨祂)">
+                <effect>副作用：貧血、頭痛、焦慮、結膜炎、噁心、嘔吐、肌肉痛、骨頭痛、發燒等感冒症狀、腎臟損傷， 發燒等 注意事項：1.要注意腎功能及電解質是否出現異常，必要時需停藥。  2.治療期間如果可能應避免侵入性的牙科治療。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="子宮內膜癌">
+        <drugs>
+            <drug name="Carboplatin （Paraplatin；佳鉑帝、卡鉑）">
+                <effect>副作用：噁心、嘔吐、食慾不振、嘔吐、掉頭髮、皮膚發疹、白血球減少、血小板減少、聽力受損 注意事項：注意補充水分</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心、嘔吐、白血球及血小板減少、貧血、腎功能受損、耳鳴、聽力受損、周邊神經病變（手、腳麻木感、高尿酸血症、視神經炎與視力模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴或喪失聽力即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓）">
+                <effect>副作用：噁心、嘔吐、靜脈炎、注射後24到48小時，尿液會變紅色、白血球減少、血小板減少、嚴重掉頭髮、心臟毒性（與累積劑量有關）、皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>上皮細胞癌</option>
+            <option>內膜基質肉瘤</option>
+            <option>其他</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="子宮頸癌">
+        <drugs>
+            <drug name="Bevacizumab (Avastin；癌思停)">
+                <effect>副作用：高血壓、蛋白尿、胃腸出血、流鼻血、血管栓塞 注意事項：腸阻塞或腸穿孔病史者宜小心使用；注意傷口癒合情形，應於重大手術後至少28天或手術傷口完全癒合後再開始進行治療。</effect>
+            </drug>
+            <drug name="Carboplatin （Paraplatin；佳鉑帝、卡鉑)">
+                <effect>副作用：噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損(少見)．聽力受損(高頻) 注意事項：需注意水分的補充。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；有利癌、好復、優富多、友復）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：停藥後周邊血管血球 數可能會持續下降。</effect>
+            </drug>
+            <drug name="Ifosfamide （Holoxan；好克癌）">
+                <effect>副作用：噁心．嘔吐．白血球減少．血小板減少．貧血．出血性膀胱炎，高劑量時腎臟毒性．掉頭髮．高劑量時中樞神經系統毒性（情緒改變．憂鬱．混亂．嗜睡甚至昏迷）．停經，精蟲減少 注意事項：攝取適量水分，注意解尿情形。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝、汰杉，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．嗜中性白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉痠痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Topotecan (Hycamtin；癌康定)">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．白血球減少．貧血．血小板缺乏症．掉頭髮．頭痛．疲倦．發燒．口腔發炎．便祕．腹痛．呼吸困難 注意事項：有相關過敏反應病史的患者或有嚴重骨髓功能抑制之患者不宜使用。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>原位癌</option>
+            <option>第Ⅰ期</option>
+            <option>第Ⅱ期</option>
+            <option>第Ⅲ期</option>
+            <option>第Ⅳ期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>子宮頸扁平上皮細胞癌</option>
+            <option>子宮頸腺體細胞癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="慢性骨髓性白血病">
+        <drugs>
+            <drug name="Busulfan(二甲磺酸丁酯)">
+                <effect></effect>
+            </drug>
+            <drug name="Dasatinib (Sprycel；柏萊)">
+                <effect>血球減少、出血（腦部及腸胃道）、體液滯留、腹瀉、皮膚疹、頭痛、疲倦。</effect>
+            </drug>
+            <drug name="Hydroxyurea(氫氧基尿素)">
+                <effect></effect>
+            </drug>
+            <drug name="Imatinib mesylate (Glivec；基利克)">
+                <effect>副作用：腸胃道不適、肌肉痛、肌肉痙攣、皮疹及水腫 注意事項：多攝取水分、水腫時，鹽份攝取要減少、肌肉痠痛時可熱敷及按摩來減緩症狀</effect>
+            </drug>
+            <drug name="Intron A(因治隆注射)">
+                <effect>發燒、頭痛、肌肉痛、倦怠等</effect>
+            </drug>
+            <drug name="Nilotinib（Tasigna；泰息安）">
+                <effect>副作用：噁心、便秘或腹瀉、頭痛、倦怠、皮膚癢、潮紅、白血球、紅血球或血小板減少、血液裡的脂質酶變高。 注意事項： 1.每天服用兩次，最好每天在固定的時間服藥，每次服藥應間隔12小時。 2.整顆吞服，不可以咬破膠囊，並喝足夠的水以確保膠囊不會停留在食道。 3.要注意，不要再繼續使用原本的抗癌藥物。 4.食物會干擾泰息安的吸收，並影響藥物的效果。因此，在進食後至少2個小時之後才可以服用泰息安；而服藥後也必須隔1個小時才可以吃東西。 5.葡萄柚或葡萄柚汁會干擾泰息安的吸收，並影響藥物的效果。所以不要同時吃葡萄柚或喝葡萄柚汁。</effect>
+            </drug>
+            <drug name="Roferon(羅飛隆注射 )">
+                <effect>發燒、頭痛、肌肉痛、倦怠</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>慢性期</option>
+            <option>加速期</option>
+            <option>急性（轉換）期</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="攝護腺癌">
+        <drugs>
+            <drug name="Cabazitaxel （Jevtana；去癌達）">
+                <effect>副作用：白血球低下、 感染、 手腳水腫、 倦怠、 周邊神經麻痛 注意事項：一個周期療程 (三周)</effect>
+            </drug>
+            <drug name="Cabazitaxel （Jevtana；去癌達）">
+                <effect>副作用：白血球低下、 感染、 手腳水腫、 倦怠、 周邊神經麻痛 注意事項：一個周期療程 (三周)</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere、Tyxan；剋癌易、汰杉 ，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手．腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少，平均在治療後7天會降至最低點，應注意衛生清潔及體溫變化，避免感染。 2.如手腳有麻木感，停藥後可改善。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere、Tyxan；剋癌易、汰杉，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手．腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少，平均在治療後7天會降至最低點，應注意衛生清潔及體溫變化，避免感染。 2.如手腳有麻木感，停藥後可改善。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="淋巴癌">
+        <drugs>
+            <drug name="Bendamustine HCl (Innomustine；普癌汰)">
+                <effect>副作用：白血球減少．血小板減少．貧血．噁心與嘔吐．腹瀉．便祕．腹痛．口腔炎．疲倦．發燒．寒顫．周邊水腫．厭食．背痛．頭痛．頭暈．咳嗽、皮疹 注意事項：治療期間因容易疲勞，請避免開車、或從事須精神專注之工作或操作危險 器械</effect>
+            </drug>
+            <drug name="Bleomycin （Bleocin；撲類惡）">
+                <effect>副作用：肺炎及肺纖維化樣症狀、致畸胎性、皮膚異常、色素沉澱及口腔炎、靜脈壁增厚、噁心、嘔吐、食慾減退、體重減輕、寒顫．發燒、偶有過敏、髮量稀疏、白血球減少．血小板減少．貧血 注意事項：1.注射後請注意有無發冷、發熱等發燒現象。 2.有咳嗽、喘氣、呼吸 困難時，請即時通知醫護人員追蹤是否產生肺部纖維化的問題。</effect>
+            </drug>
+            <drug name="Chlorambucil (Leukeran；瘤克寧)">
+                <effect>白血球過少、噁心、嘔吐、腹瀉、口腔潰瘍、周邊神經病變</effect>
+            </drug>
+            <drug name="Cyclophosphamide （Endoxan；癌德星）">
+                <effect>副作用：噁心與嘔吐．食慾不振．腹瀉．遲發性骨髓抑制作用．白血球與血小板減少（出血易感染）．貧血．掉髮．心臟毒性（與累積劑量有關）．肺部纖維化（使用高劑量時）．出血性膀胱炎．高尿酸血症．低血鈉症．色素沉著．停經．精蟲減少．抗利尿激素分泌不足症候群（SIADH）．創傷治癒延遲 注意事項：維持足量的水分，以減少出血性膀胱炎。注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Dacarbazine （DTIC；達卡巴仁）">
+                <effect>噁心．嘔吐．食慾不振．腹瀉．注射部位疼痛．顏面潮紅．白血球減少．血小板降低．貧血．掉髮．皮膚紅疹．肝功能指數上升．肝靜脈栓塞．似流行性感冒的症狀：發燒．疲倦．肌肉痛</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Epirubicin （Pharmorubicin；泛艾黴素，俗稱二代小紅莓）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．黏膜發炎．心臟毒性（與累積劑量有關）．體溫過高 注意事項：心臟或腎臟病患者須小心使用。</effect>
+            </drug>
+            <drug name="Etoposide （VP-16、Vepeside；滅必治 )">
+                <effect>副作用：噁心．嘔吐．食道炎．腹瀉．食慾不振．快速注射會造成低血壓．過敏反應．白血球減少．血小板減少．掉髮．口腔黏膜潰瘍．肝毒性．神經毒性（嗜睡．疲倦．感覺異常．視神經炎） 注意事項：臉潮紅時，可用藥物來改善症狀。</effect>
+            </drug>
+            <drug name="Fludarabine phosphate（Fludara；福達樂）">
+                <effect>副作用：水腫．全身不適感．疲倦．厭食．噁心．嘔吐．及虛弱．嗜中性白血球減少．血小板減少及貧血．神經毒性．引發自體免疫溶血性貧血反應 注意事項：1.口服錠劑整顆吞服，勿咀嚼或咬碎。 2.避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Mitoxantrone （Novantrone；能滅瘤）">
+                <effect>副作用：噁心．嘔吐．食慾不振．白血球減少．血小板減少．掉頭髮．腹瀉．口腔潰瘍．心毒性．肝功能指數上升 注意事項：治療後的24 小時，其尿液會呈現藍綠的顏色。</effect>
+            </drug>
+            <drug name="Obinutuzumab (Gazyva；癌即瓦)">
+                <effect>副作用：低血壓、心搏過速、呼吸困難與呼吸道症狀(如：支氣管痙攣、咽喉刺激、喘鳴、喉部水腫)。噁心、疲倦、頭暈、嘔吐、腹瀉、高血壓、潮紅、頭痛、發燒與寒顫。 注意事項：1.建議給予前置藥物(表4)以降低發生輸注反應的風險 2.靜脈輸注Gazyva 期間可能發生低血壓。在每次輸注Gazyva 前12 小時、輸注期間以及給藥 後第1 小時內，應考慮暫停降血壓治療</effect>
+            </drug>
+            <drug name="Prednisone（皮質類固醇）">
+                <effect>副作用：胃不舒服、胃刺激、嘔吐、頭痛、暈眩、失眠、靜坐不能、憂鬱、焦慮、痤瘡 注意事項：未經醫師同意前不可自行停用此藥，突然停藥會導致食慾降低、噁心、嘔吐、嗜睡、混亂、頭痛、發燒、關節和肌肉疼痛、脫皮、體重減輕。如果您是長期且以較大劑量治療時，醫生會逐漸減量以便在停藥前能讓您的身體適應。</effect>
+            </drug>
+            <drug name="Procarbazine （Natulan）">
+                <effect>副作用：白血球減少．血小板減少．噁心．嘔吐．食慾不振．腹瀉．口乾．間質性肺炎．肝功能指數上升．停經．憂鬱．頭痛．失眠．緊張．掉髮 注意事項：1.喝酒會發生臉潮紅的反應。 2.食用富含酪胺酸(tyramine)的食物，如乳酪．巧克力．蠶豆等，會增加副作用。</effect>
+            </drug>
+            <drug name="Rituximab （Mabthera；莫須瘤－靜脈注射）">
+                <effect>副作用：發燒、寒顫，大部分發生在第一次開始注射的2個小時內、噁心、蕁麻疹、皮疹、疲倦、頭痛、皮膚發癢、支氣管痙攣、舌或喉腫脹感（血管神經性水腫）、嘔吐、瞬時血壓過低、潮紅、心律不整及腫瘤疼痛。極少數病人會發生心臟狀況，如心絞痛及充血性心衰竭等現象 注意事項：1. 副作用的發生率，會隨著後續注射而減少。 2. 在注射時可能發生瞬間血壓過低，因此，在治療前12～24小時可暫停降血壓藥物，整個滴注治療期間應密切監視血壓。</effect>
+            </drug>
+            <drug name="Rituximab （Mabthera；莫須瘤－皮下注射）">
+                <effect>副作用：接受MabThera SC注射的患者常有局部皮膚反應。症狀包含疼痛、 腫脹、硬結、出血、紅斑、搔癢和皮疹。某些局部皮膚反應在 SC 藥物注射完超過 24 小時才發生。 注意事項：第一次投予莫須瘤 (MabThera)必須經由靜脈輸注給藥，以避免於第 必須經由靜脈輸注給藥，以避免於第1週期即一次不可逆 的投予全劑量的 MabThera。 由於在莫須瘤 (MabThera IV/SC)輸注時可能發生低血壓，因此在治療前 12 小時及輸注期間，應考慮停用抗高血壓藥物。已知以莫須瘤治療的患者曾經發生心絞痛或 是心律不整 (例如心房震顫及纖維動)、心臟衰竭或心肌梗塞等心臟病史的患者應嚴密監測。</effect>
+            </drug>
+            <drug name="Vinblastine （Velbe；敏畢瘤）">
+                <effect>副作用：噁心．嘔吐．腹痛．腹瀉．便秘．靜脈炎．白血球減少．血小板減少．貧血．掉頭髮．頭痛．肌肉．骨骼酸痛．周邊神經病變（手．腳麻木感）．沮喪．憂鬱．高血壓 注意事項：出現手腳發麻情形請告訴醫師。</effect>
+            </drug>
+            <drug name="Vincristine （Oncovin；敏克瘤）">
+                <effect>副作用：噁心．嘔吐．腹瀉．便秘．腹部抽筋．多尿症．排尿困難．尿液滯留．靜脈炎．白血球減少．血小板減少．掉髮．紅疹．周邊神經不適（手．腳麻木感）．憂鬱．高血壓．低血壓．頭痛．發燒 注意事項：手、腳麻木或有針刺感，麻痺性腸閉塞及便秘等現象，數天可恢復。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>B細胞</option>
+            <option>T細胞或NK細胞</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="甲狀腺癌">
+        <drugs>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Sorafenib (Nexavar；蕾莎瓦)">
+                <effect>手足皮膚反應(手腳紅腫、刺痛等等)、出疹、腹瀉、疲倦、高血壓</effect>
+            </drug>
+        </drugs>
+        <tests>
+            <test name="KRAS">
+                <option>原生型</option>
+                <option>突變型</option>
+            </test>
+        </tests>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>上皮細胞癌</option>
+            <option>非上皮細胞癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="白血病">
+        <drugs>
+            <drug name="Asparaginase （Elspar；樂拿舒）">
+                <effect>腹瀉/便祕．腹痛．厭食．發燒．高氨血症．休克及類過敏性症狀：呼吸困難、蕁麻疹、寒顫、血壓下降．急性胰臟炎．血糖升高</effect>
+            </drug>
+            <drug name="Blincyto (Blinatumomab；百利妥)">
+                <effect>發燒、頭痛、周邊水腫、嗜中性球低下合併發燒、噁心、低血鉀以及便秘。</effect>
+            </drug>
+            <drug name="Busulfan（邁樂寧錠、補束剋注射劑）">
+                <effect>噁心．嘔吐．白血球減少．血小板減少．貧血．水腫．心搏過速．高/低血壓．皮疹．低血鎂．高血糖．低血鉀．低血鈣．失眠．焦慮．頭痛．頭暈</effect>
+            </drug>
+            <drug name="Chlorambucil （Leukeran；瘤克寧）">
+                <effect>副作用：噁心．嘔吐．口腔潰瘍．發熱．過敏反應．周邊神經病變．抽搐．性腺抑制．白血球減少．血小板減少．間質性肺炎及肺部纖維化．肝功能指數上升 注意事項：1.可能會抑制卵巢功能，治療後容易造成無月經現象。 2.會發生精子缺乏，總劑量超過400毫克才會發生。治療結束精子生成會有不同程度的復原。</effect>
+            </drug>
+            <drug name="Cyclophosphamide （Endoxan；癌德星）">
+                <effect>副作用：噁心與嘔吐．食慾不振．腹瀉．遲發性骨髓抑制作用．白血球與血小板減少（出血易感染）．貧血．掉髮．心臟毒性（與累積劑量有關）．肺部纖維化（使用高劑量時）．出血性膀胱炎．高尿酸血症．低血鈉症．色素沉著．停經．精蟲減少．抗利尿激素分泌不足症候群（SIADH）．創傷治癒延遲 注意事項：維持足量的水分，以減少出血性膀胱炎。注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Cytarabine （Ara-C、Cytosar；賽得薩）">
+                <effect>副作用：噁心．嘔吐．腹瀉．發燒．皮膚疹．結膜炎．骨髓抑制（白血球減少．貧血．血小板下降）．掉頭髮．食道炎．口部及肛門發炎或潰瘍．血栓性靜脈炎．肝功能指數上升．高尿酸血症 注意事項：注意個人衛生及環境清潔。</effect>
+            </drug>
+            <drug name="Dasatinib (Sprycel；柏萊)">
+                <effect>血球減少、出血（腦部及腸胃道）、體液滯留、腹瀉、皮膚疹、頭痛、疲倦。</effect>
+            </drug>
+            <drug name="Daunorubicin （Daunoblastina；唐黴素）">
+                <effect>副作用：噁心．嘔吐．注射部位疼痛．靜脈炎．皮膚紅疹．白血球減少．血小板減少．心毒性．胃腸道潰瘍．腹瀉．嚴重掉頭髮．高尿酸血症．尿液變紅色 注意事項：1.注意是否發生呼吸急 促．心跳過快．肝腫大及下肢腫。 2.若有面潮紅及沿著靜脈條狀紅腫時，須告知醫護人員。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Fludarabine phosphate（Fludara；福達樂）">
+                <effect>副作用：水腫．全身不適感．疲倦．厭食．噁心．嘔吐及虛弱．嗜中性白血球減少．血小板減少及貧血．神經毒性．引發自體免疫溶血性貧血反應 注意事項：1.口服錠劑整顆吞服，勿咀嚼或咬碎。 2.避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Hydroxyurea （Hydrea；愛治膠囊）">
+                <effect>噁心．嘔吐．皮膚紅疹．白血球減少．血小板減少．口腔黏膜潰瘍．掉髮．食慾不振．腹瀉．便秘．嗜睡</effect>
+            </drug>
+            <drug name="Idarubicin (Zavedos；艾達黴素)">
+                <effect>骨髓抑制，心肌毒性，掉頭髮，急性噁心與嘔吐，黏膜發炎，食道炎與腹瀉，發燒，寒顫，皮膚疹，肝臟酵素與膽紅素升高，尿液變紅</effect>
+            </drug>
+            <drug name="Imatinib mesylate (Glivec；基利克)">
+                <effect>腸胃道不適、肌肉痛、肌肉痙攣、皮疹及水腫。</effect>
+            </drug>
+            <drug name="Methotrexate （MTX；滅可善、滅殺除癌錠）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Mitoxantrone （Novantrone；能滅瘤）">
+                <effect>副作用噁心．嘔吐．食慾不振．白血球減少．血小板減少．掉頭髮．腹瀉．口腔潰瘍．心毒性．肝功能指數上升 注意事項：治療後的24 小時，其尿液會呈現藍綠的顏色。</effect>
+            </drug>
+            <drug name="Nilotinib (Tasigna；泰息安)">
+                <effect>噁心、便秘或腹瀉；頭痛；倦怠；皮膚癢、潮紅；白血球、紅血球或血小板減少。</effect>
+            </drug>
+            <drug name="Rituximab (Mabthera；莫須瘤)">
+                <effect>淋巴球減少、盜汗、皮疹、高血糖、噁心、腹痛、腹瀉、寒顫、發燒、過敏反應、神經病變</effect>
+            </drug>
+            <drug name="Venetoclax (Venclexta；唯可來)">
+                <effect>白血球或血小板減少、貧血、腫瘤溶解症候群(若發生發燒、發冷、噁心、嘔吐、神志不清等症狀，請立刻聯絡醫護人員)</effect>
+            </drug>
+            <drug name="Vincristine （Oncovin；敏克瘤）">
+                <effect>副作用：噁心．嘔吐．腹瀉．便秘．腹部抽筋．多尿症．排尿困難．尿液滯留．靜脈炎．白血球減少．血小板減少．掉髮．紅疹．周邊神經不適（手．腳麻木感）．憂鬱．高血壓．低血壓．頭痛．發燒 注意事項：手、腳麻木或有針刺感，麻痺性腸閉塞及便秘等現象，數天可恢復。</effect>
+            </drug>
+        </drugs>
+        <tumor_type>
+            <option>急性骨髓性白血病</option>
+            <option>急性淋巴性白血病</option>
+            <option>慢性骨髓性白血病</option>
+            <option>慢性淋巴性白血病</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="皮膚癌">
+        <drugs>
+            <drug name="Aldesleukin (Proleukin；普留淨)">
+                <effect>低血壓、腸胃不適、類似流行性感冒病症</effect>
+            </drug>
+            <drug name="Carmustine (BCNU)">
+                <effect>副作用：白血球過少症．血小板過少症．貧血．噁心．嘔吐．肝功能輕度變化．腎功能受損．肺部纖維化 注意事項：1.注射太快會顏面潮紅及結膜充血． 2.注射部位有燒灼感或疼痛、色素沉著。</effect>
+            </drug>
+            <drug name="Dacarbazine （DTIC；達卡巴仁）">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．注射部位疼痛．顏面潮紅．白血球減少．血小板降低．貧血．掉髮．皮膚紅疹．肝功能指數上升．肝靜脈栓塞 注意事項：似流行性感冒的症狀：發燒．疲倦．肌肉痛</effect>
+            </drug>
+            <drug name="Ipilimumab (Yervoy；益伏)">
+                <effect>副作用：免疫相關副作用，如腸炎、皮膚反應、內分泌系統反應等 注意事項：如有嚴重腹痛腹瀉、血便黑便、黃疸、茶色尿、皮膚脫屑或水泡、四肢無力或麻痺請立即就醫</effect>
+            </drug>
+            <drug name="Lomustine （CCNU）">
+                <effect>噁心．嘔吐．口腔炎．腹瀉．白血球減少．血小板減少．貧血．掉頭髮．肺纖維化．肝功能指數上升．腎功能受損</effect>
+            </drug>
+            <drug name="Nivolumab (Opdivo；保疾伏)">
+                <effect>副作用：免疫相關副作用，如腸炎、皮膚反應、內分泌系統反應等 注意事項：如有胸痛、咳嗽加重、喘、嚴重腹痛或腹瀉、血便、黃疸、深色尿請立即就醫。</effect>
+            </drug>
+            <drug name="Pembrolizumab (Keytruda；吉舒達)">
+                <effect>副作用：免疫相關副作用，如腸炎、皮膚反應、內分泌系統反應等 注意事項：如有嚴重腹瀉腹痛、黃疸、呼吸困難等嚴重症狀請立即就醫。</effect>
+            </drug>
+            <drug name="Vemurafenib (Zelboraf；日沛樂)">
+                <effect>副作用：疲倦、掉髮、光敏感性、關節疼痛、噁心、皮膚症狀(疹、癢、增生物)、視覺症狀。 注意事項：如有呼吸不順、嚴重水泡、心律不整、黃疸、視力模糊請立即就醫。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第零期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>基底細胞癌</option>
+            <option>鱗狀細胞癌</option>
+            <option>黑色素細胞癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="神經內分泌腫瘤">
+        <drugs>
+            <drug name="Afinitor （Everolimus；癌伏妥）">
+                <effect>黏膜炎、高血糖、高血脂、肺病變、免疫抑制、腎功能變化、血球數低下。</effect>
+            </drug>
+            <drug name="Capecitabine (Xeloda；截瘤達)">
+                <effect>副作用：噁心．嘔吐．腹瀉．口腔炎．淋巴球減少．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食。 注意事項：1.治療期間塗抹含Urea軟膏於手掌及腳掌，可減少手足症候群的發生。 2.手腳有紅腫痛情形，請告知醫護人員。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴或喪失高頻率聽力，請通知醫護人員。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素 ，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後幾天內尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．口腔黏膜破皮．心臟毒性（與累積劑量有關）．皮膚色素沉著。 注意事項：1.心臟功能不良者不宜使用。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="DTIC (Dacarbazine；達卡巴仁注射劑)">
+                <effect>低血壓、禿頭症、腸胃不適、流行性感冒樣疾病、光敏感、骨髓抑制、過敏性休克、肝毒性、神經不良反應</effect>
+            </drug>
+            <drug name="Epirubicin (Pharmorubicin、Epicin；泛艾黴素 、益彼欣，俗稱二代小紅莓)">
+                <effect>副作用：噁心、嘔吐、腹瀉、白血球減少、血小板減少、掉髮、黏膜發炎、心臟毒性（與累積劑量有關）、體溫過高。 注意事項：心臟或腎臟病患者須小心使用。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3.避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Interferon（干擾素）">
+                <effect>發燒、疲倦、畏寒、頭痛、肌肉酸痛、食慾不振</effect>
+            </drug>
+            <drug name="Lanreotide Acetate (Somatuline；舒得寧長效型注射凝膠劑)">
+                <effect>腹瀉、噁心、注射部位疼痛、血糖異常、體重減輕、頭痛、膽結石等</effect>
+            </drug>
+            <drug name="Octreotide Acetate (Sandostatin LAR；善得定長效緩釋注射劑)">
+                <effect>輕微噁心、腹部不適、脹氣、軟便及脂肪吸收不良</effect>
+            </drug>
+            <drug name="streptozotocin（鏈佐黴素）">
+                <effect>副作用：噁心．嘔吐．腹瀉．低血糖．白血球減少．貧血．血小板低下。 注意事項：有使用降血糖藥物需告知主治醫師。</effect>
+            </drug>
+            <drug name="Sutent (Sunitinib；紓癌特)">
+                <effect>白血球減少、貧血、腸胃不適、高血壓、蛋白尿、手足症</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一級</option>
+            <option>第二級</option>
+            <option>第三級</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>胃泌素瘤</option>
+            <option>胰島素瘤</option>
+            <option>升糖素瘤</option>
+            <option>血管活性胜肽瘤</option>
+            <option>類癌腫瘤</option>
+            <option>嗜鉻細胞瘤</option>
+            <option>默克細胞癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="肝癌">
+        <drugs>
+            <drug name="Regorafenib (Stivarga；癌瑞格)">
+                <effect>手足皮膚反應(手腳紅腫、刺痛等等)、腹瀉、疲倦、高血壓</effect>
+            </drug>
+            <drug name="Sorafenib (Nexavar；蕾莎瓦)">
+                <effect>手足皮膚反應(手腳紅腫、刺痛等等)、腹瀉、疲倦、高血壓</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第0期</option>
+            <option>第A期</option>
+            <option>第B期</option>
+            <option>第C期</option>
+            <option>第D期</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="肺癌">
+        <drugs>
+            <drug name="Alectinib(Alecensa；安立適)">
+                <effect>水腫、疲倦、便秘、肌肉痠痛。</effect>
+            </drug>
+            <drug name="Bevacizumab (Avastin；癌思停)">
+                <effect>高血壓，輕微蛋白尿及引發血栓的危險。</effect>
+            </drug>
+            <drug name="Carboplatin（Paraplatin；佳鉑帝、爾定康）">
+                <effect>副作用 : 噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損．聽力受損(高頻) 注意事項 : 偶有肝功能升高可能。</effect>
+            </drug>
+            <drug name="Ceritinib(Zykadia；立克癌)">
+                <effect>腹瀉、噁心、嘔吐、腹痛、食慾不振</effect>
+            </drug>
+            <drug name="Cisplatin（Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用 : 嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項 : 1.需注意水分的補充。 2.當有耳鳴或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Crizotinib(Xalkori；截剋瘤)">
+                <effect>噁心、嘔吐、腹瀉、疲倦、便秘、食慾不振、水腫、暈眩、視力變化、血球數減少、感覺異常、肝指數異常</effect>
+            </drug>
+            <drug name="Docetaxel（Taxotere、Tyxan；剋癌易、汰杉，俗稱歐洲紫杉醇）">
+                <effect>副作用 : 噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手、腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項 : 1.最常見的副作用是白血球減少，平均在治療後7到10天會降至最低點，應注意衛生清潔及體溫變化，避免感染。 2.手腳麻木感,停藥後可改善。</effect>
+            </drug>
+            <drug name="Erlotinib(Tarceva；得舒緩)">
+                <effect>皮疹、腹瀉、食慾不振、疲倦。</effect>
+            </drug>
+            <drug name="Etoposide（Vepeside、 Fytosid；滅必治、癌妥滅 )">
+                <effect>副作用 : 噁心．嘔吐．食道炎．腹瀉．食慾不振．快速注射會造成低血壓．過敏反應．白血球減少．血小板減少．掉髮．口腔黏膜潰瘍．肝毒性．神經毒性（嗜睡、疲倦、感覺異常、視神經炎） 注意事項 : 臉潮紅時，可用藥物來改善症狀。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil、UFT、UFUR；好復、有利癌、優富多、友復）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。</effect>
+            </drug>
+            <drug name="Gefitinib (Iressa；艾瑞莎)">
+                <effect>腹瀉、皮疹、痤瘡、乾性肌膚、噁心、嘔吐、食慾不振、皮膚搔癢、身體無力。</effect>
+            </drug>
+            <drug name="Gemcitabine（Gemzar、Gemmis；健擇、健仕）">
+                <effect>輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫</effect>
+            </drug>
+            <drug name="Giotrif (Afatinib；妥復克)">
+                <effect>腹瀉、噁心嘔吐、腸胃不適、食慾不振、指甲及皮膚變化、搔癢、輕微鼻血、黏膜炎、倦怠、感染症。</effect>
+            </drug>
+            <drug name="Nivolumab(Opdivo；保疾伏)">
+                <effect>免疫相關副作用，如腸炎、皮膚反應、內分泌系統反應等。</effect>
+            </drug>
+            <drug name="Osimertinib(Tagrisso；泰格莎)">
+                <effect>腹瀉，皮疹，皮膚乾燥。</effect>
+            </drug>
+            <drug name="Paclitaxel（Taxol、Phyxol；汰癌勝、輝克癒蘇，俗稱太平洋紫杉醇)">
+                <effect>副作用 : 輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木、刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Pembrolizumab(Keytruda；吉舒達)">
+                <effect>免疫相關副作用，如腸炎、皮膚反應、內分泌系統反應等。</effect>
+            </drug>
+            <drug name="Pemetrexed（Alimta；愛寧達）">
+                <effect>副作用：噁心、嘔吐、腹瀉、便秘、食慾減低、胸痛、紅疹．白血球減少、血小板減少、貧血、輕微掉髮、神經病變、疲倦、發燒 注意事項：要適當補充葉酸及維他命B12。</effect>
+            </drug>
+            <drug name="Ramucirumab(Cyramza；欣銳擇)">
+                <effect>高血壓，輕微蛋白尿及引發血栓的危險。</effect>
+            </drug>
+            <drug name="Topotecan(Hycamtin；癌康定)">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．白血球減少．貧血．血小板缺乏症．掉頭髮．頭痛．疲倦．發燒．口腔發炎．便祕．腹痛．呼吸困難 注意事項：有相關過敏反應病史或有嚴重骨髓功能抑制之患者不宜使用。</effect>
+            </drug>
+            <drug name="Vinblastine（Velbe；敏畢瘤）">
+                <effect>副作用：噁心．嘔吐．腹痛．腹瀉．便秘．靜脈炎．白血球減少．血小板減少．貧血．掉頭髮．頭痛．肌肉．骨骼酸痛．周邊神經病變（手、腳麻木感）．沮喪．憂鬱．高血壓 注意事項：出現手腳發麻情形請告訴醫師。</effect>
+            </drug>
+            <drug name="Vinorelbine（Navelbine；溫諾平）">
+                <effect>副作用：白血球減少．注射部位反應．便秘．輕微或中度噁心嘔吐．掉髮．神經方面不適（麻痺、刺痛、虛弱）．疲倦．呼吸困難 注意事項：1. 需冷藏保存。 2. 如果膠囊壓碎或膠囊內液體外露時應停止服用。 3. 需監測血球變化，預防感染。</effect>
+            </drug>
+        </drugs>
+        <tests>
+            <test name="EGFR">
+                <range unit="%" max="100" min="-100" />
+            </test>
+            <test name="ALK">
+                <range max="100" min="-100" />
+            </test>
+        </tests>
+        <cancer_stage>
+            <option>0期</option>
+            <option>Ⅰ期</option>
+            <option>Ⅱ期</option>
+            <option>Ⅲ期</option>
+            <option>Ⅳ期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>小細胞肺癌</option>
+            <option>非小細胞肺癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="胃癌">
+        <drugs>
+            <drug name="Capecitabine （Xeloda；截瘤達）">
+                <effect>副作用：噁心．嘔吐．腹瀉．口腔炎．淋巴球減少．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食 注意事項：注意腹瀉情形，並視情形補充液體及電解質。</effect>
+            </drug>
+            <drug name="Carboplatin （Paraplatin；佳鉑帝、卡鉑）">
+                <effect>副作用：噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損（少見）．聽力受損（高頻） 注意事項：有造成畸形胚胎的可能。</effect>
+            </drug>
+            <drug name="Cisplatin （Cisplatin、Kemoplat；西伯拉丁、希思鉑定、克莫抗癌，俗稱白金或順鉑)">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。 3.治療期間不可餵哺母乳。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere、Tyxan；剋癌易、汰杉，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手．腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少，平均在治療後7天會降至最低點,應注意衛生清潔及體溫變化,避免感染。 2.如手腳有麻木感,停藥後可改善。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓）">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Etoposide （VP-16、Vepeside；滅必治 )">
+                <effect>副作用：噁心．嘔吐．食道炎．腹瀉．食慾不振．快速注射會造成低血壓．過敏反應．白血球減少．血小板減少．掉髮．口腔黏膜潰瘍．肝毒性．神經毒性（嗜睡．疲倦．感覺異常．視神經炎） 注意事項：1.臉潮紅時，可用藥物來改善症狀。 2.本藥可能會傷害胎兒，若在接受化療期間或化療之後計畫懷孕者不適。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料</effect>
+            </drug>
+            <drug name="Methotrexate （Methotrexate；滅殺除癌錠）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Oxaliplatin （Eloxatin、Oxalip；益樂鉑錠、歐力普）">
+                <effect>副作用：末稍感覺異常．口部周圍與上呼吸道感覺異常．噁心．嘔吐．腹瀉．肝功能異常．白血球及血小板減少．貧血．過敏反應 注意事項：1.輸注後會產生短暫咽喉方面的感覺異常。需監測過敏反應及神經毒性。 2.應避免使用酒精，避免開車或操作機器</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。 3.對胎兒可能有害。</effect>
+            </drug>
+            <drug name="Ramucirumab (Cyramza；欣銳擇)">
+                <effect>高血壓、腹瀉、頭痛、低血鈉症。</effect>
+            </drug>
+            <drug name="Trastuzumab (Herceptin；賀癌平）">
+                <effect>輕微發熱、冷顫、疼痛、頭痛、噁心、腹瀉、影響心臟功能。</effect>
+            </drug>
+            <drug name="TS-1 （TS-1、tegafur、gimeracil、oteracil potassium；愛斯萬）">
+                <effect>副作用：嘔吐．食慾不振．口腔炎．白血球減少．血小板減少．血紅素減少．腹瀉．色素沉澱．肝功能受損 注意事項：1. 某些藥物不能和TS-1同時服用，否則將會導致口內炎、腹瀉及白血球減少等副作用更加嚴重。 2. 定期抽血檢查，追蹤肝功能，並注意白血球減少。</effect>
+            </drug>
+            <drug name="Uracil Tegafur （UFT、UFUR；優富多、友復膠囊）">
+                <effect>腹瀉．噁心．嘔吐．口腔炎．腹痛．倦怠感．暈眩．色素沉澱．指甲異常．水腫．肝腎機能異常</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>零 期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="胃腸道基質瘤">
+        <drugs>
+            <drug name="Imatinib mesylate (Glivec；基利克)">
+                <effect>副作用：腸胃道不適、肌肉痛、肌肉痙攣、皮疹及水腫 注意事項：多攝取水分、水腫時，鹽份攝取要減少、肌肉痠痛時可熱敷及按摩來減緩症狀</effect>
+            </drug>
+            <drug name="Sunitinib malate（Sutent；紓癌特）">
+                <effect>副作用：腸胃道不適、疲倦、皮膚或髮色變化、味覺改變、食慾降低 注意事項：1.有些人會出現血壓增高，所以要常測量血壓並記錄 2.胃腸潰瘍之病患可能會有出血之可能性</effect>
+            </drug>
+        </drugs>
+    </cancer>
+    <cancer name="胰臟癌">
+        <drugs>
+            <drug name="Capecitabine （Xeloda；截瘤達）">
+                <effect>副作用：噁心．嘔吐．腹瀉．口腔炎．淋巴球減少．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食 注意事項：1. 治療期間可於手掌腳掌塗抹含Urea的軟膏，以減少手足症候群的發生。 2. 有手腳紅腫痛情形，請告知醫護人員。</effect>
+            </drug>
+            <drug name="Capecitabine （Xeloda；截瘤達）">
+                <effect>副作用：噁心．嘔吐．腹瀉．口腔炎．淋巴球減少．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食 注意事項：1. 治療期間可於手掌腳掌塗抹含Urea的軟膏，以減少手足症候群的發生。 2. 有手腳紅腫痛情形，請告知醫護人員。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Erlotinib (Tarceva；得舒緩)">
+                <effect>皮膚疹、腹瀉</effect>
+            </drug>
+            <drug name="Erlotinib(Tarceva；得舒緩)">
+                <effect>皮疹、腹瀉、食慾不振、疲倦。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：停藥後，周邊血管血球數可能會持續下降。</effect>
+            </drug>
+            <drug name="Irinotecan （Campto、Irino；抗癌妥、益立諾）">
+                <effect>副作用：噁心．嘔吐．急性膽鹼性症候群（早期腹瀉．盜汗．流淚．瞳孔縮小．流口水．腹部痙攣）嗜中性白血球減少症．血小板減少．掉髮．延遲性腹瀉 注意事項：1.給藥24小時以後，產生排便次數增加或是水瀉，稱之延遲性腹瀉，需告知醫師。 2.24小時內可能發生眩暈或視力障礙，不宜駕車或操作機器。 3.腹瀉嚴重24小時以上，無小便，腹部絞痛，體重急降，或合併發燒等須立即回診。</effect>
+            </drug>
+            <drug name="Irinotecan liposome injection (Onivyde；安能得)">
+                <effect>副作用：腹瀉.嘔吐.噁心. 白血球減少. 發燒. 食慾降低.脫水. 胃腸發炎. 過敏反應 注意事項：1.治療期間定期監測血球計數; 有嗜中性白血球減少合併發燒時，則應暫緩使用。 2.請勿使用於腸道阻塞的患者。 若沒有使用禁忌，可注射atropine治療早期腹瀉。</effect>
+            </drug>
+            <drug name="nab-paclitaxel (Abraxane；亞伯杉)">
+                <effect>副作用：貧血、嗜中性白血球減少、血小板減少、疲倦、周邊神經病變、噁心、禿髮、周邊水腫、腹瀉、發熱、食慾減退、嘔吐、便秘、出疹、腹痛、脫水 注意事項：1. 為監測是否發生可能嚴重且導致感染的骨髓抑制 (主要為嗜中性白血球減少)，建議患者應經常檢測周邊血球計數。 2. 中至重度肝功能不全的轉移性胰腺癌患者建議不給予Abraxane。</effect>
+            </drug>
+            <drug name="Oxaliplatin （Eloxatin、Oxalip；益樂鉑錠、歐力普）">
+                <effect>副作用：末稍感覺異常．口部周圍與上呼吸道感覺異常．噁心．嘔吐．腹瀉．肝功能異常．白血球及血小板減少．貧血．過敏反應 注意事項：1.輸注後會產生短暫咽喉方面的感覺異常。需監測過敏反應及神經毒性。 2.應避免使用酒精，避免開車或操作機器。</effect>
+            </drug>
+        </drugs>
+        <tests>
+            <test name="KRAS">
+                <option>原生型</option>
+                <option>突變型</option>
+            </test>
+        </tests>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>胰管癌</option>
+            <option>腺泡細胞癌</option>
+            <option>黏液性囊狀腺瘤</option>
+            <option>胰管內乳突狀黏液性腫瘤</option>
+            <option>實心偽乳頭腫瘤</option>
+            <option>內分泌腫瘤</option>
+            <option>其他</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="腎臟癌">
+        <drugs>
+            <drug name="Afinitor (Everolimus；癌伏妥)">
+                <effect>口腔炎、咳嗽、噁心、紅疹等</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：停藥後周邊血管血球 數可能會持續下降。</effect>
+            </drug>
+            <drug name="Nexavar (Sorafenib；蕾沙瓦）">
+                <effect>疲倦、骨髓抑制（白血球低）以及胃腸道不適、手足病</effect>
+            </drug>
+            <drug name="Sutent (Sunitinib；紓癌特)">
+                <effect>疲倦、骨髓抑制（白血球低）以及胃腸道不適、手足病</effect>
+            </drug>
+            <drug name="Torisel (Temsirolimus；特癌適)">
+                <effect>口腔炎、咳嗽、噁心、紅疹等</effect>
+            </drug>
+            <drug name="Vinblastine （Velbe；敏畢瘤）">
+                <effect>副作用：噁心．嘔吐．腹痛．腹瀉．便秘．靜脈炎．白血球減少．血小板減少．貧血．掉頭髮．頭痛．肌肉．骨骼酸痛．周邊神經病變（手．腳麻木感）．沮喪．憂鬱．高血壓 注意事項：出現手腳發麻情形請告訴醫師。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>腎細胞癌</option>
+            <option>泌尿上皮細胞癌</option>
+            <option>威廉氏腫瘤</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="腦瘤">
+        <drugs>
+            <drug name="Bevacizumab (Avastin；癌思停)">
+                <effect>副作用：流鼻血、高血壓、血管栓塞、蛋白尿、胃腸出血。 注意事項：腸阻塞或腸穿孔病史者宜小心使用；注意傷口癒合情形，應於重大手術後至少28天或手術傷口完全癒合後再開始進行治療。</effect>
+            </drug>
+            <drug name="Carmustine (Gliadel 、BCNU；格立得)">
+                <effect>頭痛．感染．噁心．嘔吐．傷口癒合慢．腦水腫</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Etoposide （VP-16、Vepeside；滅必治 )">
+                <effect>副作用：噁心．嘔吐．食道炎．腹瀉．食慾不振．快速注射會造成低血壓．過敏反應．白血球減少．血小板減少．掉髮．口腔黏膜潰瘍．肝毒性．神經毒性（嗜睡．疲倦．感覺異常．視神經炎） 注意事項：臉潮紅時，可用藥物來改善症狀。</effect>
+            </drug>
+            <drug name="Procarbazine （Natulan）">
+                <effect>副作用：白血球減少．血小板減少．噁心．嘔吐．食慾不振．腹瀉．口乾．間質性肺炎．肝功能指數上升．停經．憂鬱．頭痛．失眠．緊張．掉髮 注意事項：1.喝酒會發生臉潮紅的反應。 2.食用富含酪胺酸(tyramine)的食物，如乳酪．巧克力．蠶豆等，會增加副作用。</effect>
+            </drug>
+            <drug name="Temozolomide（Temodal；帝盟多）">
+                <effect>副作用：噁心、嘔吐、便秘、頭痛、疲勞、白血球下降、血小板下降、淋巴球下降、掉頭髮 注意事項：藥品不可打開、嚼碎，需以一杯水整粒吞服。</effect>
+            </drug>
+            <drug name="Vincristine （Oncovin；敏克瘤）">
+                <effect>副作用：噁心．嘔吐．腹瀉．便秘．腹部抽筋．多尿症．排尿困難．尿液滯留．靜脈炎．白血球減少．血小板減少．掉髮．紅疹．周邊神經不適（手．腳麻木感）．憂鬱．高血壓．低血壓．頭痛．發燒 注意事項：手、腳麻木或有針刺感，麻痺性腸閉塞及便秘等現象，數天可恢復。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第1級</option>
+            <option>第2級</option>
+            <option>第3級</option>
+            <option>第4級</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>星狀細胞腫瘤</option>
+            <option>寡樹突腫瘤和混合神經膠質</option>
+            <option>胚芽腫瘤</option>
+            <option>室管膜腫瘤</option>
+            <option>腦膜腫瘤</option>
+            <option>神經元膠質細胞腫瘤</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="膀胱癌">
+        <drugs>
+            <drug name="Carboplatin （Paraplatin；佳鉑帝、卡鉑）">
+                <effect>噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損(少見)．聽力受損(高頻)</effect>
+            </drug>
+            <drug name="Cisplatin （Platinex；鉑帝爾、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：停藥後周邊血管血球數可能會持續下降。</effect>
+            </drug>
+            <drug name="Ifosfamide （Holoxan；好克癌）">
+                <effect>副作用：噁心．嘔吐．白血球減少．血小板減少．貧血．出血性膀胱炎，高劑量時腎臟毒性．掉頭髮．高劑量時中樞神經系統毒性（情緒改變．憂鬱．混亂．嗜睡甚至昏迷）．停經，精蟲減少 注意事項：攝取適量水分，注意解尿情形。</effect>
+            </drug>
+            <drug name="Methotrexate （MTX；滅可善、滅殺除癌錠）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Mitomycin-C（排多癌，俗稱小藍莓）">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．發燒．白血球減少．血小板減少．貧血．掉髮．腎功能受損．皮膚紅疹．血尿，水腫，高血壓 注意事項：1.注射後約1~2天尿液會呈現藍色。 2.注意在藥物注射期間，不要過度活動。</effect>
+            </drug>
+            <drug name="Oxaliplatin （Eloxatin、Oxalip；益樂鉑錠、歐力普）">
+                <effect>副作用：末稍感覺異常．口部周圍與上呼吸道感覺異常．噁心．嘔吐．腹瀉．肝功能異常．白血球及血小板減少．貧血．過敏反應 注意事項：1.輸注後會產生短暫咽喉方面的感覺異常。需監測過敏反應及神經毒性。 2.應避免使用酒精，避免開車或操作機器。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Pemetrexed （Alimta；愛寧達）">
+                <effect>副作用：噁心、嘔吐、腹瀉、便秘、食慾減低、胸痛、紅疹．白血球減少、血小板減少、貧血、輕微掉髮、神經病變、疲倦、發燒 注意事項：可適當補充葉酸及維他命B12。</effect>
+            </drug>
+            <drug name="Vinblastine （Velbe；敏畢瘤）">
+                <effect>副作用：噁心．嘔吐．腹痛．腹瀉．便秘．靜脈炎．白血球減少．血小板減少．貧血．掉頭髮．頭痛．肌肉．骨骼酸痛．周邊神經病變（手．腳麻木感）．沮喪．憂鬱．高血壓 注意事項：出現手腳發麻情形請告訴醫師。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>0a期</option>
+            <option>Ois 期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>尿路上皮細胞癌</option>
+            <option>鱗狀上皮細胞癌</option>
+            <option>腺癌</option>
+            <option>其他</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="食道癌">
+        <drugs>
+            <drug name="Cisplatin （Cisplatin、Kemoplat；西伯拉丁、希思鉑定、克莫抗癌，俗稱白金或順鉑)">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴或喪失高頻率聽力，請即時通知醫護人員。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3.避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Irinotecan （Campto、Irino；抗癌妥、益立諾）">
+                <effect>副作用：噁心．嘔吐．急性膽鹼性症候群（早期腹瀉．盜汗．流淚．瞳孔縮小．流口水．腹部痙攣）嗜中性白血球減少症．血小板減少．掉髮．延遲性腹瀉 注意事項：1.給藥24小時以後，產生排便次數增加或是水瀉，稱之延遲性腹瀉，需告知醫師。 2. 24小時內可能發生眩暈或視力障礙，不宜駕車或操作機器。 3.腹瀉嚴重24小時以上，無小便，腹部絞痛，體重急降，或合併發燒等須立即回診。</effect>
+            </drug>
+            <drug name="Oxaliplatin （Eloxatin、Oxalip；益樂鉑錠、歐力普）">
+                <effect>副作用：末稍感覺異常．口部周圍與上呼吸道感覺異常．噁心．嘔吐．腹瀉．肝功能異常．白血球及血小板減少．貧血．過敏反應 注意事項：1.輸注後會產生短暫咽喉方面的感覺異常。需監測過敏反應及神經毒性。 2.應避免使用酒精，避免開車或操作機器。</effect>
+            </drug>
+            <drug name="Paclitaxel （Taxol；汰癌勝，俗稱太平洋紫杉醇）">
+                <effect>副作用：輕微噁心．嘔吐．腹瀉．過敏反應．（嗜中性）白血球及血小板過低．貧血．末梢神經異常（如手腳麻木．刺痛感）．肌肉酸痛．掉髮．心跳過慢．低血壓．水腫．肝功能異常 注意事項：1.在投予此藥前會先給 予適當預防過敏發生之藥物。 2.可能需做心電圖監測。</effect>
+            </drug>
+            <drug name="Trastuzumab (Herceptin；賀癌平）">
+                <effect>輕微發熱、冷顫、疼痛、頭痛、噁心、腹瀉、影響心臟功能。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第零期</option>
+            <option>第一期</option>
+            <option>第二期</option>
+            <option>第三期</option>
+            <option>第四期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>鱗狀細胞癌</option>
+            <option>腺癌</option>
+        </tumor_type>
+    </cancer>
+    <cancer name="骨肉瘤">
+        <drugs>
+            <drug name="Cisplatin （Platinex、Abiplatin；鉑帝爾、阿樂癌、順鉑，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．視神經炎與視覺模糊（少見） 注意事項：1.需注意水分的補充。 2.當有耳鳴及/或喪失高頻率聽力，請即時通知醫護人員。 3.治療期間不可餵哺母乳。</effect>
+            </drug>
+            <drug name="Cyclophosphamide （Endoxan；癌德星）">
+                <effect>副作用：噁心與嘔吐．食慾不振．腹瀉．遲發性骨髓抑制作用．白血球與血小板減少（出血易感染）．貧血．掉髮．心臟毒性（與累積劑量有關）．肺部纖維化（使用高劑量時）．出血性膀胱炎．高尿酸血症．低血鈉症．色素沉著．停經．精蟲減少．抗利尿激素分泌不足症候群（SIADH）．創傷治癒延遲 注意事項：維持足量的水分，以減少出血性膀胱炎。注意是否有血尿或排尿困難的情形。</effect>
+            </drug>
+            <drug name="Doxorubicin (Adriamycin；艾黴素，俗稱小紅莓)">
+                <effect>副作用：噁心．嘔吐．靜脈炎．注射後24到48小時，尿液會變紅色．白血球減少．血小板減少．嚴重掉頭髮．心臟毒性（與累積劑量有關）．皮膚色素沉著 注意事項：1.心臟功能不全者，使 用本劑應小心。 2.尿液呈現紅色時，給予適量水分。</effect>
+            </drug>
+            <drug name="Epirubicin （Pharmorubicin；泛艾黴素，俗稱二代小紅莓）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．黏膜發炎．心臟毒性（與累積劑量有關）．體溫過高 注意事項：心臟或腎臟病患者須小心使用。</effect>
+            </drug>
+            <drug name="Etoposide （VP-16、Vepeside；滅必治 )">
+                <effect>副作用：噁心．嘔吐．食道炎．腹瀉．食慾不振．快速注射會造成低血壓．過敏反應．白血球減少．血小板減少．掉髮．口腔黏膜潰瘍．肝毒性．神經毒性（嗜睡．疲倦．感覺異常．視神經炎） 注意事項：1.臉潮紅時，可用藥物來改善症狀。 2.本藥可能會傷害胎兒，若在接受化療期間或化療之後計畫懷孕者不適。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：1.停藥後周邊血管血球數可能會持續下降。 2.懷孕及授乳期婦女禁用。</effect>
+            </drug>
+            <drug name="Ifosfamide （Holoxan；好克癌）">
+                <effect>副作用：噁心．嘔吐．白血球減少．血小板減少．貧血．出血性膀胱炎，高劑量時腎臟毒性．掉頭髮．高劑量時中樞神經系統毒性（情緒改變．憂鬱．混亂．嗜睡甚至昏迷）．停經，精蟲減少 注意事項：攝取適量水分，注意解尿情形。</effect>
+            </drug>
+            <drug name="Methotrexate （MTX；滅可善、滅殺除癌錠）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．視力模糊．頭暈．口腔潰瘍．間質性肺炎．肝及腎功能受損．皮膚色素沉著．皮膚紅疹 注意事項：1.定期追蹤肝功能檢查，且避免飲酒。 2.可能會產生光敏感反應。</effect>
+            </drug>
+            <drug name="Topotecan (Hycamtin；癌康定)">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．白血球減少．貧血．血小板缺乏症．掉頭髮．頭痛．疲倦．發燒．口腔發炎．便祕．腹痛．呼吸困難 注意事項：有相關過敏反應病史的患者與懷孕授乳者或有嚴重骨髓功能抑制之患者不宜使用。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>IA</option>
+            <option>IB</option>
+            <option>IIA</option>
+            <option>IIB</option>
+            <option>III</option>
+        </cancer_stage>
+    </cancer>
+    <cancer name="鼻咽癌">
+        <drugs>
+            <drug name="Bleomycin （Bleocin；撲類惡）">
+                <effect>副作用：肺炎及肺纖維化樣症狀、致畸胎性、皮膚異常、色素沉澱及口腔炎、靜脈壁增厚、噁心、嘔吐、食慾減退、體重減輕、寒顫．發燒、偶有過敏、髮量稀疏、白血球減少．血小板減少．貧血 注意事項：1.注射後請注意有無發冷、發熱等過敏現象。 2.有咳嗽、喘氣、呼吸 困難時，請即時通知醫護人員追蹤是否產生肺部纖維化的問題。</effect>
+            </drug>
+            <drug name="Capecitabine （Xeloda；截瘤達）">
+                <effect>副作用：噁心．嘔吐．腹瀉．口腔炎．淋巴球減少．手足症候群（手腳感覺異常．麻痺．刺痛）．高膽紅素血症．疲倦．厭食 注意事項：1. 治療期間可於手掌腳掌塗抹含Urea的軟膏，以減少手足症候群的發生。 2. 有手腳紅腫痛情形，請告知醫護人員。</effect>
+            </drug>
+            <drug name="Carboplatin（Paraplatin、Carboplatin、 Kemocarb、Caxatin；佳鉑帝、卡鉑、剋鉑停、卡伯拉丁、克鉑定、爾定康、卡蒲鉑定" 山德士 "、艾鉑霆、可鉑)">
+                <effect>副作用：噁心．嘔吐．食慾不振．可逆性腸道毒性（如嘔吐）．掉頭髮．皮膚發疹．白血球減少．血小板減少．腎功能受損(少見)．高頻聽力受損 注意事項：有造成畸形胚的可能。</effect>
+            </drug>
+            <drug name="Cisplatin （Cisplatin；鉑帝爾、順鉑、阿樂癌、西伯拉丁、希思鉑定、克莫抗癌，俗稱白金）">
+                <effect>副作用：嚴重噁心．嘔吐．白血球及血小板減少．貧血．腎功能受損．耳鳴．周邊神經病變（手、腳麻木感）．高尿酸血症．視神經炎與視覺模糊(少見) 注意事項：1.需注意水分的補充。 2.當有耳鳴或喪失高頻率聽力，請即時通知醫護人員。 3.治療期間不可餵哺母乳。</effect>
+            </drug>
+            <drug name="Docetaxel （Taxotere、Tyxan；剋癌易、汰杉 ，俗稱歐洲紫杉醇）">
+                <effect>副作用：噁心．嘔吐．過敏反應．低血壓．白血球減少．血小板減少．體液蓄積症狀（如末梢肢體水腫．體重增加等）．末梢神經病變（手腳麻木感）．掉頭髮．口腔炎．腹瀉．衰弱無力．肌痛 注意事項：1.最常見的副作用為白血球減少,平均在治療後7天會降至最低點,應注意衛生清潔及體溫變化,避免感染。 2.如手腳有麻木感,停藥後可改善。</effect>
+            </drug>
+            <drug name="Epirubicin （Pharmorubicin；泛艾黴素，俗稱二代小紅莓）">
+                <effect>副作用：噁心．嘔吐．腹瀉．白血球減少．血小板減少．掉髮．黏膜發炎．心臟毒性（與累積劑量有關）．體溫過高 注意事項：心臟或腎臟病患者須小心使用。</effect>
+            </drug>
+            <drug name="Fluorouracil （5-FU、Fluoro-uracil；好復、有利癌）">
+                <effect>副作用：噁心．嘔吐．食慾不振．口腔及腸胃黏膜潰瘍．腹瀉．低血壓．白血球減少．掉頭髮．脫皮．紅疹．皮膚色素沉著．指甲變形．光敏感 注意事項：1.有腹瀉時，注意水分的補充。 2.注意口腔清潔衛生，或可口含冰塊。 3. 避免酒精性飲料。</effect>
+            </drug>
+            <drug name="Gemcitabine （Gemzar、Gemmis；健擇、健仕）">
+                <effect>副作用：輕微噁心．嘔吐．貧血．白血球減少．血小板減少．輕度尿蛋白．血尿．呼吸困難．輕微掉頭髮．皮膚紅疹．類似感冒症狀．發燒．水腫 注意事項：停藥後周邊血管血球 數可能會持續下降。</effect>
+            </drug>
+            <drug name="Ifosfamide （Holoxan；好克癌）">
+                <effect>副作用：噁心．嘔吐．白血球減少．血小板減少．貧血．出血性膀胱炎，高劑量時腎臟毒性．掉頭髮．高劑量時中樞神經系統毒性（情緒改變．憂鬱．混亂．嗜睡甚至昏迷）．停經，精蟲減少 注意事項：攝取適量水分，注意解尿情形。</effect>
+            </drug>
+            <drug name="Irinotecan (Campto、Irino、Irinotecan、Irican、Herocan、Innocan、Irinotel、Onivyde；抗癌妥、益立諾、艾諾肯、艾益康、瑞諾克、喜康寧、癌可癒、依瑞諾丁、癌治佳、愛諾康、怡瑞納、怡諾肯、安能得微脂體)">
+                <effect>副作用：噁心．嘔吐．急性膽鹼性症候群（早期腹瀉．盜汗．流淚．瞳孔縮小．流口水．腹部痙攣）嗜中性白血球減少症．血小板減少．掉髮．延遲性腹瀉 注意事項：1.懷孕哺乳者不適用。 2.給藥24小時以後，產生排便次數增加或是水瀉，稱之延遲性腹瀉，需告知醫師。 3.24小時內可能發生眩暈或視力障礙，不宜駕車或操作機器。 4.腹瀉嚴重24小時以 上，無小便，腹部絞痛，體重急降，或合併發燒等須立即回診。</effect>
+            </drug>
+            <drug name="Mitomycin-C（排多癌，俗稱小藍莓）">
+                <effect>副作用：噁心．嘔吐．食慾不振．腹瀉．發燒．白血球減少．血小板減少．貧血．掉髮．腎功能受損．皮膚紅疹．血尿，水腫，高血壓 注意事項：1.注射後約1~2天尿液會呈現藍色。 2.注意在藥物注射期間，不要過度活動。</effect>
+            </drug>
+            <drug name="Vinorelbine （Navelbine；溫諾平）">
+                <effect>副作用：白血球減少．注射部位反應．便秘．輕微或中度噁心嘔吐．掉髮．神經方面不適（麻痺．刺痛．虛弱）．疲倦．呼吸困難 注意事項：需冷藏保存。如膠囊壓碎，或膠囊內液體外露時應停止服用。</effect>
+            </drug>
+        </drugs>
+        <cancer_stage>
+            <option>第0期</option>
+            <option>第Ⅰ期</option>
+            <option>第II期</option>
+            <option>第III期</option>
+            <option>第IV期</option>
+        </cancer_stage>
+        <tumor_type>
+            <option>角化型鱗狀上皮細胞癌</option>
+            <option>分化型鱗狀上皮細胞癌</option>
+            <option>未分化型鱗狀上其細胞癌</option>
+        </tumor_type>
+    </cancer>
+</cancers>
