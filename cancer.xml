@@ -56,6 +56,32 @@
             <option>腸胃道間質腫瘤</option>
             <option>黑色素細胞瘤</option>
         </tumor_type>
+        <image_test>
+            <organ name="X光">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>胸部</option>
+                <option>全身</option>
+            </organ>
+            <organ name="腹部超音波" />
+            <organ name="骨骼掃描" />
+            <organ name="核磁共振(MRI)">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>胸部</option>
+                <option>全身</option>
+            </organ>
+            <organ name="電腦斷層攝影">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>胸部</option>
+                <option>全身</option>
+            </organ>
+            <organ name="正子攝影(PET)" />
+        </image_test>
     </cancer>
     <cancer name="乳癌">
         <drugs>
