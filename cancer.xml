@@ -57,30 +57,30 @@
             <option>黑色素細胞瘤</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="乳癌">
@@ -196,31 +196,31 @@
             <option>其他</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="子宮內膜超音波" />
+            <test name="正子攝影(PET)" />
+            <test name="子宮內膜超音波" />
         </image_test>
     </cancer>
     <cancer name="卵巢癌">
@@ -272,32 +272,32 @@
             <option>其他</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="陰道超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="陰道超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="骨盆腔檢查" />
+            <test name="正子攝影(PET)" />
+            <test name="骨盆腔檢查" />
         </image_test>
     </cancer>
     <cancer name="口腔癌">
@@ -342,30 +342,30 @@
             <option>腺癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="喉癌">
@@ -407,31 +407,31 @@
             <option>肉瘤</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="多發性骨髓瘤">
@@ -473,31 +473,31 @@
             <option>第三期</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="子宮內膜癌">
@@ -524,32 +524,32 @@
             <option>其他</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="陰道細胞學檢查" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="陰道細胞學檢查" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="子宮頸癌">
@@ -591,34 +591,34 @@
             <option>子宮頸腺體細胞癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="骨盆腔檢查" />
-            <organ name="子宮頸抹片檢查" />
-            <organ name="陰道抹片" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="骨盆腔檢查" />
+            <test name="子宮頸抹片檢查" />
+            <test name="陰道抹片" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="慢性骨髓性白血病">
@@ -651,31 +651,31 @@
             <option>急性（轉換）期</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="攝護腺癌">
@@ -700,32 +700,32 @@
             <option>第四期</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="肛門指診" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="肛門指診" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="淋巴癌">
@@ -793,31 +793,31 @@
             <option>T細胞或NK細胞</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="甲狀腺癌">
@@ -849,30 +849,30 @@
             <option>非上皮細胞癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="白血病">
@@ -942,31 +942,31 @@
             <option>慢性淋巴性白血病</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="皮膚癌">
@@ -1009,30 +1009,30 @@
             <option>黑色素細胞癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="神經內分泌腫瘤">
@@ -1089,31 +1089,31 @@
             <option>默克細胞癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="肝癌">
@@ -1133,30 +1133,30 @@
             <option>第D期</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="肺癌">
@@ -1248,30 +1248,30 @@
             <option>非小細胞肺癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="胃癌">
@@ -1327,30 +1327,30 @@
             <option>第四期</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="胃腸道基質瘤">
@@ -1363,31 +1363,31 @@
             </drug>
         </drugs>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="胰臟癌">
@@ -1451,31 +1451,31 @@
             <option>其他</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="腎臟癌">
@@ -1514,31 +1514,31 @@
             <option>威廉氏腫瘤</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="腦瘤">
@@ -1580,31 +1580,31 @@
             <option>神經元膠質細胞腫瘤</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="膀胱癌">
@@ -1658,32 +1658,32 @@
             <option>其他</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="膀胱鏡檢查" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="膀胱鏡檢查" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="食道癌">
@@ -1722,30 +1722,30 @@
             <option>腺癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
+            <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
     <cancer name="骨肉瘤">
@@ -1786,31 +1786,31 @@
             <option>III</option>
         </cancer_stage>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
         </image_test>
     </cancer>
     <cancer name="鼻咽癌">
@@ -1865,32 +1865,32 @@
             <option>未分化型鱗狀上其細胞癌</option>
         </tumor_type>
         <image_test>
-            <organ name="X光">
+            <test name="X光">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="腹部超音波" />
-            <organ name="骨骼掃描" />
-            <organ name="核磁共振(MRI)">
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="電腦斷層攝影">
+            <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
             </organ>
-            <organ name="正子攝影(PET)" />
-            <organ name="鼻咽內視鏡" />
-            <organ name="其他" />
+            <test name="正子攝影(PET)" />
+            <test name="鼻咽內視鏡" />
+            <test name="其他" />
         </image_test>
     </cancer>
 </cancers>
