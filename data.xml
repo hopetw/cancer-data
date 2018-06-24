@@ -249,7 +249,7 @@
             <test id="β-hcg" name="β-HCG人類絨毛膜性腺刺激素" min="5" unit="IU/L" />
             <test id="cga" name="CgA血清嗜鉻粒蛋白A" f-min="0" f-max="51" m-min="0" m-max="76" unit="mcg/L" />
         </examine>
-        <examine id="image_test" name="影像檢查">
+        <examine id="test_result" name="檢查結果">
             <option>正常</option>
             <option>異常</option>
             <option>增大</option>
