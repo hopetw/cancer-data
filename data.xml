@@ -256,4 +256,45 @@
             <option>轉移</option>
         </examine>
     </examines>
+    <side_effects>
+        <side_effect name="噁心">
+            <option name="一級">沒胃口，飲食習慣未改變</option>
+            <option name="二級">食量減少，沒有明顯的體重減輕或脫水、營養不良</option>
+            <option name="三級">攝食不足，需管餵食、全靜脈營養療法或需住院</option>
+        </side_effect>
+        <side_effect name="嘔吐">
+            <option name="一級">不需醫療</option>
+            <option name="二級">門診靜脈補液，需醫療介入</option>
+            <option name="三級">管餵、全靜脈營養療法或需住院</option>
+            <option name="四級">危及生命</option>
+        </side_effect>
+        <side_effect name="口腔炎">
+            <option name="一級">無症狀或輕度症狀，不需醫療</option>
+            <option name="二級">中度疼痛或潰瘍不會影響進食；需調整飲食種類</option>
+            <option name="三級">嚴重的疼痛；干擾口腔進食</option>
+            <option name="四級">危及生命；需緊急處置</option>
+        </side_effect>
+        <side_effect name="掉頭髮">
+            <option name="一級">脫髮&lt;50％，改變髮型可改善</option>
+            <option name="二級">脫髮&gt;=50％，需要假髮或髮片</option>
+        </side_effect>
+        <side_effect name="食道炎">
+            <option name="一級">無症狀；不需醫療</option>
+            <option name="二級">進食或吞嚥改變；需補充口服營養劑</option>
+            <option name="三級">嚴重的飲食或吞嚥改變；需管餵食、全靜脈營養療法或住院治療</option>
+            <option name="四級">危及生命；需緊急處置</option>
+        </side_effect>
+        <side_effect name="腹瀉">
+            <option name="一級">排便次數增加，每日&lt;４次(人工肛門者排便量輕微增加)</option>
+            <option name="二級">排便次數增加，每日４~6次(人工肛門者排便量中度增加)，日常生活受影響</option>
+            <option name="三級">排便次數增加，每日＞＝７次(人工肛門者排便量嚴重增加)，日常生活無法自理</option>
+            <option name="四級">危及生命；需緊急處置</option>
+        </side_effect>
+        <side_effect name="放射性皮膚炎">
+            <option name="一級">輕度紅斑或乾性脫屑</option>
+            <option name="二級">中度至輕度紅斑；片狀濕性脫屑，大多局限於皮膚皺褶和皺紋；中度水腫</option>
+            <option name="三級">皮膚皺褶和皺紋以外的部位濕性脫屑；輕微創傷或磨損引起的出血</option>
+            <option name="四級">危及生命；皮膚壞死或全層真皮潰瘍；影響部位的自發性出血；需植皮</option>
+        </side_effect>
+    </side_effects>
 </root>
