@@ -246,7 +246,7 @@
             <test id="ca19-9" name="CA19-9糖鏈抗原19-9" min="37" unit="U/ml" />
             <test id="afp" name="AFP胎兒蛋白" min="15" unit="ng/ml" />
             <test id="psa" name="PSA前列腺特異抗原" min="4" unit="ng/ml" />
-            <test id="β-hcg" name="β-HCG人類絨毛膜性腺刺激素" min="5" unit="IU/L" />
+            <test id="hcg" name="β-HCG人類絨毛膜性腺刺激素" min="5" unit="IU/L" />
             <test id="cga" name="CgA血清嗜鉻粒蛋白A" f-min="0" f-max="51" m-min="0" m-max="76" unit="mcg/L" />
         </examine>
         <examine id="test_result" name="檢查結果">
@@ -256,6 +256,42 @@
             <option>轉移</option>
         </examine>
     </examines>
+    <operation_parts>
+        <option>十二指腸</option>
+        <option>口腔</option>
+        <option>大腸</option>
+        <option>子宮內膜</option>
+        <option>子宮頸</option>
+        <option>小腸</option>
+        <option>甲狀腺</option>
+        <option>皮膚</option>
+        <option>卵巢</option>
+        <option>肝</option>
+        <option>乳房</option>
+        <option>直腸</option>
+        <option>肺</option>
+        <option>胃</option>
+        <option>食道</option>
+        <option>胰臟</option>
+        <option>胸腺</option>
+        <option>淋巴</option>
+        <option>唾液腺</option>
+        <option>喉</option>
+        <option>腎臟</option>
+        <option>腦</option>
+        <option>膀胱</option>
+        <option>鼻咽</option>
+        <option>膽囊</option>
+        <option>攝護腺</option>
+    </operation_parts>
+    <radiation_parts>
+        <option>頭部</option>
+        <option>頸部</option>
+        <option>胸部</option>
+        <option>腹部</option>
+        <option>骨頭</option>
+        <option>全身</option>
+    </radiation_parts>
     <side_effects>
         <side_effect name="噁心">
             <option name="一級">沒胃口，飲食習慣未改變</option>

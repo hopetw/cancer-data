@@ -499,6 +499,9 @@
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
+        <other_treatment>
+            <option>自體造血幹細胞移植</option>
+        </other_treatment>
     </cancer>
     <cancer name="子宮內膜癌">
         <drugs>
@@ -677,6 +680,11 @@
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
+        <other_treatment>
+            <option>骨髓移植</option>
+            <option>周邊血液幹細胞移植</option>
+            <option>臍帶血液幹細胞移植</option>
+        </other_treatment>
     </cancer>
     <cancer name="攝護腺癌">
         <drugs>
@@ -819,6 +827,9 @@
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
+        <other_treatment>
+            <option>幹細胞或骨髓移植</option>
+        </other_treatment>
     </cancer>
     <cancer name="甲狀腺癌">
         <drugs>
@@ -968,6 +979,9 @@
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
+        <other_treatment>
+            <option>血液幹細胞移植</option>
+        </other_treatment>
     </cancer>
     <cancer name="皮膚癌">
         <drugs>
@@ -1812,6 +1826,9 @@
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
+        <other_treatment>
+            <option>生物性重建: 包括異體骨移植及自體骨骼重建手術</option>
+        </other_treatment>
     </cancer>
     <cancer name="鼻咽癌">
         <drugs>
