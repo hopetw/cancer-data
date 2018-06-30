@@ -66,7 +66,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -75,14 +75,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -191,7 +191,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -200,14 +200,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -242,7 +242,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -251,14 +251,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -382,7 +382,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -391,14 +391,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="子宮內膜超音波" />
         </image_test>
@@ -452,7 +452,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -461,14 +461,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -547,7 +547,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -556,14 +556,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -622,7 +622,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -631,14 +631,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -678,7 +678,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -687,14 +687,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -741,7 +741,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -750,14 +750,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
         </image_test>
     </cancer>
@@ -807,7 +807,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -816,14 +816,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="骨盆腔檢查" />
             <test name="子宮頸抹片檢查" />
@@ -905,7 +905,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -914,14 +914,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -975,7 +975,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -984,14 +984,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1042,7 +1042,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1051,14 +1051,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1122,7 +1122,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1131,14 +1131,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="鼻咽內視鏡" />
             <test name="其他" />
@@ -1187,7 +1187,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1196,14 +1196,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1266,7 +1266,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1275,14 +1275,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="膀胱鏡檢查" />
             <test name="其他" />
@@ -1344,7 +1344,7 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="陰道超音波" />
             <test name="骨骼掃描" />
@@ -1354,14 +1354,14 @@
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>胸部</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="骨盆腔檢查" />
         </image_test>
@@ -1434,7 +1434,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1443,14 +1443,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1538,7 +1538,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1547,14 +1547,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1607,7 +1607,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1616,14 +1616,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1660,7 +1660,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1669,14 +1669,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="肛門指診" />
             <test name="其他" />
@@ -1728,7 +1728,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1737,14 +1737,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1770,7 +1770,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1779,14 +1779,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1852,7 +1852,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1861,14 +1861,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1910,7 +1910,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1919,14 +1919,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="其他" />
         </image_test>
@@ -1967,7 +1967,7 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="腹部超音波" />
             <test name="骨骼掃描" />
             <test name="核磁共振(MRI)">
@@ -1976,14 +1976,14 @@
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="電腦斷層攝影">
                 <option>頭部</option>
                 <option>頸部</option>
                 <option>腹部</option>
                 <option>乳房</option>
                 <option>全身</option>
-            </organ>
+            </test>
             <test name="正子攝影(PET)" />
             <test name="陰道細胞學檢查" />
             <test name="其他" />
