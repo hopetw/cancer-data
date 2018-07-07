@@ -207,7 +207,7 @@
             <option>乳房</option>
             <option>肋膜腔</option>
         </select>
-        <text id="cancer_stage" name="癌症期別" required="true" />
+        <select id="cancer_stage" name="癌症期別" required="true" />
         <select id="cytodifferentiation" name="細胞分化程度" required="false">
             <option>低惡性度G1</option>
             <option>中惡性度G2</option>
