@@ -33,14 +33,14 @@
             </drug>
         </drugs>
         <tests>
-            <test name="K-RAS">
+            <test name="K-RAS" type="option">
                 <option>原生型</option>
                 <option>突變型</option>
             </test>
-            <test name="EGFR">
+            <test name="EGFR" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <test name="PD-L1">
+            <test name="PD-L1" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
         </tests>
@@ -156,19 +156,19 @@
             </drug>
         </drugs>
         <tests>
-            <test name="EGFR">
+            <test name="EGFR" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <test name="ALK">
+            <test name="ALK" type="range">
                 <range max="100" min="-100" />
             </test>
-            <test name="ROS1">
+            <test name="ROS1" type="range">
                 <range max="100" min="-100" />
             </test>
-            <test name="BRAF">
+            <test name="BRAF" type="range">
                 <range max="100" min="-100" />
             </test>
-            <test name="PDL1">
+            <test name="PDL1" type="range">
                 <range max="100" min="-100" />
             </test>
         </tests>
@@ -220,7 +220,7 @@
             </drug>
         </drugs>
         <tests>
-            <test name="PDL1">
+            <test name="PDL1" type="range">
                 <range max="100" min="-100" />
             </test>
         </tests>
@@ -340,19 +340,19 @@
             </drug>
         </drugs>
         <tests>
-            <test name="HER-2/neu">
+            <test name="HER-2/neu" type="option">
                 <option>陰性</option>
                 <option>陽性：+</option>
                 <option>陽性：++</option>
                 <option>陽性：+++</option>
             </test>
-            <test name="荷爾蒙接受體ER">
+            <test name="荷爾蒙接受體ER" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <test name="荷爾蒙接受體PR">
+            <test name="荷爾蒙接受體PR" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <test name="Ki67">
+            <test name="Ki67" type="option">
                 <option>大於等於20%</option>
                 <option>小於20%</option>
             </test>
@@ -512,13 +512,13 @@
             </drug>
         </drugs>
         <tests>
-            <test name="HER-2/neu">
+            <test name="HER-2/neu" type="option">
                 <option>陰性</option>
                 <option>陽性：+</option>
                 <option>陽性：++</option>
                 <option>陽性：+++</option>
             </test>
-            <test name="PDL1">
+            <test name="PDL1" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
         </tests>
@@ -584,7 +584,7 @@
             </drug>
         </drugs>
         <tests>
-            <test name="BRAF">
+            <test name="BRAF" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
         </tests>
@@ -640,7 +640,7 @@
             </drug>
         </drugs>
         <tests>
-            <test name="KRAS">
+            <test name="KRAS" type="option">
                 <option>原生型</option>
                 <option>突變型</option>
             </test>
@@ -1381,7 +1381,7 @@
             </drug>
         </drugs>
         <tests>
-            <test name="KRAS">
+            <test name="KRAS" type="option">
                 <option>原生型</option>
                 <option>突變型</option>
             </test>
@@ -1490,48 +1490,49 @@
             </drug>
         </drugs>
         <tests>
-            <test name="IDH">
+            <test name="IDH" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <test name="FLT3">
+            <test name="FLT3" type="range">
                 <range unit="%" max="100" min="-100" />
             </test>
-            <tumor_type>
-                <option>急性骨髓性白血病</option>
-                <option>急性淋巴性白血病</option>
-                <option>慢性骨髓性白血病</option>
-                <option>慢性淋巴性白血病</option>
-            </tumor_type>
-            <image_test>
-                <test name="X光">
-                    <option>頭部</option>
-                    <option>頸部</option>
-                    <option>腹部</option>
-                    <option>乳房</option>
-                    <option>全身</option>
-                </test>
-                <test name="腹部超音波" />
-                <test name="骨骼掃描" />
-                <test name="核磁共振(MRI)">
-                    <option>頭部</option>
-                    <option>頸部</option>
-                    <option>腹部</option>
-                    <option>乳房</option>
-                    <option>全身</option>
-                </test>
-                <test name="電腦斷層攝影">
-                    <option>頭部</option>
-                    <option>頸部</option>
-                    <option>腹部</option>
-                    <option>乳房</option>
-                    <option>全身</option>
-                </test>
-                <test name="正子攝影(PET)" />
-                <test name="其他" />
-            </image_test>
-            <other_treatment>
-                <option>血液幹細胞移植</option>
-            </other_treatment>
+        </tests>
+        <tumor_type>
+            <option>急性骨髓性白血病</option>
+            <option>急性淋巴性白血病</option>
+            <option>慢性骨髓性白血病</option>
+            <option>慢性淋巴性白血病</option>
+        </tumor_type>
+        <image_test>
+            <test name="X光">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>乳房</option>
+                <option>全身</option>
+            </test>
+            <test name="腹部超音波" />
+            <test name="骨骼掃描" />
+            <test name="核磁共振(MRI)">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>乳房</option>
+                <option>全身</option>
+            </test>
+            <test name="電腦斷層攝影">
+                <option>頭部</option>
+                <option>頸部</option>
+                <option>腹部</option>
+                <option>乳房</option>
+                <option>全身</option>
+            </test>
+            <test name="正子攝影(PET)" />
+            <test name="其他" />
+        </image_test>
+        <other_treatment>
+            <option>血液幹細胞移植</option>
+        </other_treatment>
     </cancer>
     <cancer name="骨肉瘤">
         <drugs>
