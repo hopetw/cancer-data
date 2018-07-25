@@ -256,7 +256,7 @@
             <option>轉移</option>
         </examine>
     </examines>
-    <operation_parts>
+    <operation_parts name="手術治療部位">
         <option>十二指腸</option>
         <option>口腔</option>
         <option>大腸</option>
@@ -284,7 +284,7 @@
         <option>膽囊</option>
         <option>攝護腺</option>
     </operation_parts>
-    <radiation_parts>
+    <radiation_parts name="放射治療部位">
         <option>頭部</option>
         <option>頸部</option>
         <option>胸部</option>
@@ -292,7 +292,7 @@
         <option>骨頭</option>
         <option>全身</option>
     </radiation_parts>
-    <side_effects>
+    <side_effects name="副作用">
         <side_effect name="噁心">
             <option name="一級">沒胃口，飲食習慣未改變</option>
             <option name="二級">食量減少，沒有明顯的體重減輕或脫水、營養不良</option>
