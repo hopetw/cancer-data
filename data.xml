@@ -188,6 +188,7 @@
             <option>鼻咽</option>
             <option>膽囊</option>
             <option>攝護腺</option>
+            <option>其他</option>
         </select>
         <select id="tumor_type" name="癌症細胞型態" required="true" />
         <text id="tumor_size" name="腫瘤大小" type="float" required="false" />
@@ -196,6 +197,7 @@
             <option>無</option>
         </select>
         <select id="distance_transfer" name="遠處轉移" required="false">
+            <option>無</option>
             <option>皮膚</option>
             <option>肝</option>
             <option>肺</option>
@@ -215,6 +217,7 @@
             <option>不詳</option>
         </select>
         <select id="ailment_history" name="慢性病史" required="false">
+            <option>無</option>
             <option>肝炎/肝硬化</option>
             <option>糖尿病</option>
             <option>高血壓</option>
