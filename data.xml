@@ -41,6 +41,7 @@
             <option>神經內分泌腫瘤</option>
             <option>慢性骨髓性白血病</option>
             <option>子宮內膜癌</option>
+            <option>軟組織惡性肉瘤</option>
         </select>
         <select id="hospital_name" name="就診醫院院名">
             <option>三軍總醫院</option>
