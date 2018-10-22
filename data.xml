@@ -231,10 +231,10 @@
     </page>
     <examines>
         <examine id="hematology" name="血液檢查">
-            <test id="wbc" name="WBC/白血球" min="3.54" max="9.06" unit="10的3次方/uL" />
-            <test id="anc" name="ANC/嗜中性白血球" max="1500" unit="mm3 (3是3次方)" />
+            <test id="wbc" name="WBC/白血球" min="3.54" max="9.06" unit="10³/uL" />
+            <test id="anc" name="ANC/嗜中性白血球" max="1500" unit="mm³" />
             <test id="hb" name="Hb/血色素" f-min="13.5" f-max="17.2" m-min="10.8" m-max="14.9" unit="g/dL" />
-            <test id="platelet" name="Platelet/血小板" f-min="148" f-max="339" m-min="150" m-max="361" unit="103(3是3次方)/uL" />
+            <test id="platelet" name="Platelet/血小板" f-min="148" f-max="339" m-min="150" m-max="361" unit="10³/uL" />
             <test id="sgot" name="SGOT穀草轉氨酶/肝功能" min="8" max="37" unit="U/L" />
             <test id="sgpt" name="SGPT谷丙轉氨酶/肝功能" min="0" max="41" unit="U/L" />
             <test id="bun" name="BUN/腎功能" min="6" max="21" unit="mg%" />
