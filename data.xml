@@ -191,7 +191,7 @@
             <option>攝護腺</option>
             <option>其他</option>
         </select>
-        <select id="tumor_type" name="癌症細胞型態" required="true" />
+        <select id="tumor_type" name="癌症細胞型態" required="false" />
         <text id="tumor_size" name="腫瘤大小" type="float" required="false" />
         <select id="lymphtransfer" name="淋巴轉移" required="false">
             <option>有</option>
