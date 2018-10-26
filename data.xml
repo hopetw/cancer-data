@@ -246,7 +246,7 @@
         <examine id="tumor_marker" name="腫瘤標記">
             <test id="cea" name="CEA癌胚抗原" min="5" unit="ng/mL" />
             <test id="ca15-3" name="CA15-3癌抗原15-3" min="31" unit="U/mL" />
-            <test id="ca125" name="CA125癌抗原125" ="35" unit="U/ml" />
+            <test id="ca125" name="CA125癌抗原125" max="35" unit="U/ml" />
             <test id="ca19-9" name="CA19-9糖鏈抗原19-9" min="37" unit="U/ml" />
             <test id="afp" name="AFP胎兒蛋白" min="15" unit="ng/ml" />
             <test id="psa" name="PSA前列腺特異抗原" min="4" unit="ng/ml" />
