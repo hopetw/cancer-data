@@ -44,6 +44,7 @@
             <option>軟組織惡性肉瘤</option>
         </select>
         <select id="hospital_name" name="就診醫院院名">
+            <option>臺大醫院</option>
             <option>三軍總醫院</option>
             <option>大林慈濟醫院</option>
             <option>中山附醫</option>
@@ -145,7 +146,6 @@
             <option>彰化秀傳醫院</option>
             <option>彰化基督教醫院</option>
             <option>彰濱秀傳醫院</option>
-            <option>臺大醫院</option>
             <option>澎湖醫院</option>
             <option>雙和醫院</option>
             <option>羅東博愛醫院</option>
