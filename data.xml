@@ -14,34 +14,33 @@
     <page id="2" name="診斷資料">
         <text id="diagnose_date" name="診斷日期" type="date" required="true" />
         <select id="diagnose_type" name="診斷名稱" required="true">
-            <option>大腸癌</option>
-            <option>肺癌</option>
-            <option>肝癌</option>
-            <option>乳癌</option>
-            <option>口腔癌</option>
-            <option>攝護腺癌</option>
-            <option>胃癌</option>
-            <option>皮膚癌</option>
-            <option>甲狀腺癌</option>
-            <option>食道癌</option>
-            <option>子宮頸癌</option>
-            <option>淋巴癌</option>
-            <option>喉癌</option>
-            <option>腦瘤</option>
-            <option>鼻咽癌</option>
-            <option>腎臟癌</option>
-            <option>膀胱癌</option>
-            <option>卵巢癌</option>
-            <option>胰臟癌</option>
-            <option>白血病</option>
-            <option>骨肉瘤</option>
-            <option>攝護腺癌</option>
-            <option>多發性骨髓瘤</option>
-            <option>腸胃道基質瘤</option>
-            <option>神經內分泌腫瘤</option>
-            <option>慢性骨髓性白血病</option>
-            <option>子宮內膜癌</option>
-            <option>軟組織惡性肉瘤</option>
+            <option female="true" male="true">大腸癌</option>
+            <option female="true" male="true">肺癌</option>
+            <option female="true" male="true">肝癌</option>
+            <option female="true" male="true">乳癌</option>
+            <option female="true" male="true">口腔癌</option>
+            <option female="false" male="true">攝護腺癌</option>
+            <option female="true" male="true">胃癌</option>
+            <option female="true" male="true">皮膚癌</option>
+            <option female="true" male="true">甲狀腺癌</option>
+            <option female="true" male="true">食道癌</option>
+            <option female="true" male="false">子宮頸癌</option>
+            <option female="true" male="true">淋巴癌</option>
+            <option female="true" male="true">喉癌</option>
+            <option female="true" male="true">腦瘤</option>
+            <option female="true" male="true">鼻咽癌</option>
+            <option female="true" male="true">腎臟癌</option>
+            <option female="true" male="true">膀胱癌</option>
+            <option female="true" male="false">卵巢癌</option>
+            <option female="true" male="true">胰臟癌</option>
+            <option female="true" male="true">白血病</option>
+            <option female="true" male="true">骨肉瘤</option>
+            <option female="true" male="true">多發性骨髓瘤</option>
+            <option female="true" male="true">腸胃道基質瘤</option>
+            <option female="true" male="true">神經內分泌腫瘤</option>
+            <option female="true" male="true">慢性骨髓性白血病</option>
+            <option female="true" male="false">子宮內膜癌</option>
+            <option female="true" male="true">軟組織惡性肉瘤</option>
         </select>
         <select id="hospital_name" name="就診醫院院名">
             <option>臺大醫院</option>
@@ -84,7 +83,6 @@
             <option>汐止國泰醫院</option>
             <option>亞東醫院</option>
             <option>亞洲大學暨附屬醫院</option>
-            <option>其他</option>
             <option>和信醫院</option>
             <option>奇美醫院</option>
             <option>宜蘭陽明大學附設醫院</option>
@@ -150,6 +148,7 @@
             <option>雙和醫院</option>
             <option>羅東博愛醫院</option>
             <option>羅東聖母醫院</option>
+            <option>其他</option>
         </select>
         <text id="emergency_phone" name="急診電話" type="string" required="false" />
         <text id="surgery_doctor" name="外科醫師" type="string" required="false" />
