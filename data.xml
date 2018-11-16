@@ -83,7 +83,6 @@
             <option>汐止國泰醫院</option>
             <option>亞東醫院</option>
             <option>亞洲大學暨附屬醫院</option>
-            <option>其他</option>
             <option>和信醫院</option>
             <option>奇美醫院</option>
             <option>宜蘭陽明大學附設醫院</option>
@@ -149,6 +148,7 @@
             <option>雙和醫院</option>
             <option>羅東博愛醫院</option>
             <option>羅東聖母醫院</option>
+            <option>其他</option>
         </select>
         <text id="emergency_phone" name="急診電話" type="string" required="false" />
         <text id="surgery_doctor" name="外科醫師" type="string" required="false" />
