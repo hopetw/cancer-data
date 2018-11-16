@@ -14,7 +14,7 @@
     <page id="2" name="診斷資料">
         <text id="diagnose_date" name="診斷日期" type="date" required="true" />
         <select id="diagnose_type" name="診斷名稱" required="true">
-            <option>大腸癌</option>
+            <option female="true" male="false">大腸癌</option>
             <option>肺癌</option>
             <option>肝癌</option>
             <option>乳癌</option>
