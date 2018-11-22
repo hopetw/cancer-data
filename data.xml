@@ -251,6 +251,7 @@
             <test id="psa" name="PSA前列腺特異抗原" min="4" unit="ng/ml" />
             <test id="hcg" name="β-HCG人類絨毛膜性腺刺激素" min="5" unit="IU/L" />
             <test id="cga" name="CgA血清嗜鉻粒蛋白A" f-min="0" f-max="51" m-min="0" m-max="76" unit="mcg/L" />
+            <test id="SCC" name="SCC鱗狀細胞癌抗原" max="2.5" unit="ng/mL" />
         </examine>
         <examine id="image_test" name="影像檢查">
             <option>正常</option>
