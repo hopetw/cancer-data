@@ -230,7 +230,7 @@
     </page>
     <examines>
         <examine id="hematology" name="血液檢查">
-            <test id="wbc" name="WBC/白血球" min="3.54" max="9.06" unit="10³/uL" />
+            <test id="wbc" name="WBC/白血球" min="3540" max="9060" unit="uL" />
             <test id="anc" name="ANC/嗜中性白血球" max="1500" unit="mm³" />
             <test id="hb" name="Hb/血色素" f-min="13.5" f-max="17.2" m-min="10.8" m-max="14.9" unit="g/dL" />
             <test id="platelet" name="Platelet/血小板" f-min="148" f-max="339" m-min="150" m-max="361" unit="10³/uL" />
@@ -258,6 +258,7 @@
             <option>異常</option>
             <option>增大</option>
             <option>轉移</option>
+            <option>未確認</option>
         </examine>
     </examines>
     <operation_parts name="手術治療部位">
