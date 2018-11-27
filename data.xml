@@ -331,7 +331,7 @@
             <option name="三級">排便次數增加，每日＞＝７次(人工肛門者排便量嚴重增加)，日常生活無法自理</option>
             <option name="四級">危及生命；需緊急處置</option>
         </side_effect>
-        <side_effect name="放射性皮膚炎">
+        <side_effect name="皮膚炎">
             <option name="一級">輕度紅斑或乾性脫屑</option>
             <option name="二級">中度至輕度紅斑；片狀濕性脫屑，大多局限於皮膚皺褶和皺紋；中度水腫</option>
             <option name="三級">皮膚皺褶和皺紋以外的部位濕性脫屑；輕微創傷或磨損引起的出血</option>
