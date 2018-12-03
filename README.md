@@ -30,11 +30,15 @@
 * 子宮內膜癌
 * 軟組織惡性肉瘤
 
+## 資料更新頻率
+
+持續更新中
+
 ## 建置單位
 
 * 財團法人癌症希望基金會 Hope Foundation for Cancer Care
 
 ## 資料提供單位
 
-* 台大醫院
-* 長庚醫院
+* 台大醫院 National Taiwan University Hospital
+* 長庚醫院 Chang Gung Memorial Hospital
