@@ -34,7 +34,7 @@
 
 ## 建置單位
 
-* 財團法人癌症希望基金會
+* 財團法人癌症希望基金會 Hope Foundation for Cancer Care
 
 ## 資料提供
 
