@@ -39,7 +39,16 @@
 * `#diagnose_type > option`：所有癌別
 * `#diagnose_type > option[female=true]`：女性癌別
 * `#diagnose_type > option[male=true]`：男性癌別
-* `#image_test > option`：影象檢查結果
+* `#image_test > option`：影像檢查結果
+* `page[id=3]`：腫瘤切片結果
+* `#hematology > test`：血液檢查結果
+* `#hematology > test[min]`：單一血液檢查項目的正常最小值
+* `#hematology > test[max]`：單一血液檢查項目的正常最大值
+* `#hematology > test[f-min]`：單一血液檢查項目的女性正常最小值
+* `#hematology > test[f-max]`：單一血液檢查項目的女性正常最大值
+* `#hematology > test[m-min]`：單一血液檢查項目的男性正常最小值
+* `#hematology > test[m-max]`：單一血液檢查項目的男性正常最大值
+* `#hematology > test[unit]`：單一血液檢查項目的單位
 
 ### cancer.xml
 
