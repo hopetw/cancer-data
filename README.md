@@ -36,9 +36,7 @@
 
 ### data.xml
 
-```css
-#diagnose_type > option
-```
+* `#diagnose_type > option`：所有癌別
 
 ### cancer.xml
 
