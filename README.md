@@ -42,6 +42,7 @@
 * `#image_test > option`：影像檢查結果
 * `page[id=3]`：腫瘤切片結果
 * `#hematology > test`：血液檢查結果
+* `#tumor_marker > test`：腫瘤標記結果
 * `#hematology > test[min]`：單一血液檢查項目的正常最小值
 * `#hematology > test[max]`：單一血液檢查項目的正常最大值
 * `#hematology > test[f-min]`：單一血液檢查項目的女性正常最小值
