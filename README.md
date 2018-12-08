@@ -37,6 +37,9 @@
 ### data.xml
 
 * `#diagnose_type > option`：所有癌別
+* `#diagnose_type > option[female=true]`：女性癌別
+* `#diagnose_type > option[male=true]`：男性癌別
+* `#image_test > option`：影象檢查結果
 
 ### cancer.xml
 
