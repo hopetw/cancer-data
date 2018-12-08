@@ -52,6 +52,14 @@
 
 ### cancer.xml
 
+* `cancer > drugs > drug`：單一癌別的使用藥物
+* `cancer > drugs > drug > effect`：單一癌別的使用藥物後副作用
+* `cancer > tumor_type`：單一癌別的腫瘤類型
+* `cancer > image_test > test`：單一癌別的影像檢查類型
+* `cancer > tests > test > range`：單一癌別的其他檢查 (範圍類型)
+* `cancer > tests > test > option`：單一癌別的其他檢查 (下拉式類型)
+* `cancer > other_treatment`：單一癌別的其他治療方式
+
 ## 資料更新頻率
 
 持續更新中
