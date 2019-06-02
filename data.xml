@@ -159,8 +159,8 @@
         <text id="case_m_phone" name="個管師電話" type="string" required="false" />
     </page>
     <page id="3" name="切片資料">
-        <text id="slice_date" name="切片報告日期" type="date" required="true" />
-        <select id="cancer_organ" name="癌症部位" required="true">
+        <text id="slice_date" name="切片報告日期" type="date" required="false" />
+        <select id="cancer_organ" name="癌症部位" required="false">
             <option>十二指腸</option>
             <option>口腔</option>
             <option>大腸</option>
@@ -209,7 +209,7 @@
             <option>乳房</option>
             <option>肋膜腔</option>
         </select>
-        <select id="cancer_stage" name="癌症期別" required="true" />
+        <select id="cancer_stage" name="癌症期別" required="false" />
         <select id="cytodifferentiation" name="細胞分化程度" required="false">
             <option>低惡性度G1</option>
             <option>中惡性度G2</option>
@@ -226,7 +226,7 @@
             <option>心臟疾病</option>
             <option>其他</option>
         </select>
-        <text id="other_test" name="其他檢查" required="true" />
+        <text id="other_test" name="其他檢查" required="false" />
     </page>
     <examines>
         <examine id="hematology" name="血液檢查">
