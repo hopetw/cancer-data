@@ -339,8 +339,8 @@
         </side_effect>
             <side_effect name="丘疹、膿皰疹">
             <option name="一級">丘疹、膿皰佔小於10％體表面積</option>
-            <option name="二級">丘疹、膿皰佔10~30％體表面積，可能影響日常生活功能；或輕微症狀的丘疹、膿皰佔> 30％體表面積</option>
-            <option name="三級">中度或重度症狀的丘疹、膿皰佔> 30％體表面積，影響日常自我照護功能，須靜脈注射抗生素</option>
+            <option name="二級">丘疹、膿皰佔10~30％體表面積，可能影響日常生活功能；或輕微症狀的丘疹、膿皰佔大於30％體表面積</option>
+            <option name="三級">中度或重度症狀的丘疹、膿皰佔大於30％體表面積，影響日常自我照護功能，須靜脈注射抗生素</option>
             <option name="四級">危及生命</option>
         </side_effect>
     </side_effects>
